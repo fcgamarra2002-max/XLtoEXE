@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>PC</author></authors><commentList><comment ref="C8" authorId="0" shapeId="0" xr:uid="{DF9B287F-EF9F-4909-8DF7-A6B5D004D513}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+01 D LEG N.° 728
+16 MICROEMPRESA
+17 PEQUEÑA EMPRESA
+18 AGRARIO
+20 MINEROS
+21 CONSTRUCCION CIVIL
+99 OTROS
+</t></r></text></comment><comment ref="D8" authorId="0" shapeId="0" xr:uid="{010A8C1C-3549-4194-A10A-6DDE15CA2796}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Código de Trabajador
+Vlidar ID registro (Maestro Trabjadores)</t></r></text></comment><comment ref="E8" authorId="0" shapeId="0" xr:uid="{357C0583-1D2D-40A1-ABFE-AAF38EEFCA55}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Total dias laborados</t></r></text></comment><comment ref="F8" authorId="0" shapeId="0" xr:uid="{429E1946-F234-4B5B-874F-5C0DBD5B327C}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Total horas laboradas</t></r></text></comment><comment ref="S8" authorId="0" shapeId="0" xr:uid="{3FBAD842-0139-4BA6-9DC2-35B86046AE89}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+1: Activo
+0: Inactivo</t></r></text></comment></commentList></comments>

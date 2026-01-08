@@ -1,0 +1,485 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+	<ribbon startFromScratch="true">
+		<tabs>
+			<tab id="Tab1" label="MANTENIMIENTO">
+				<group id="grup_mant1" label="General">
+					<button id="bt_Empresas" size="large" label="Empresas" onAction="Empresas" image="Empresas"/>
+					<button id="bt_Usuarios" size="large" label="Usuarios" onAction="Usuarios" image="Usuarios"/>
+					<button id="bt_Permisos" size="large" label="Roles y Permisos" onAction="Permiso" image="Rol"/>
+				</group>
+				<group id="grup_mantjg" label="Maestros">
+					<button id="bt_Clientes" size="large" label="Clientes" onAction="Cltes" image="Clientes"/>
+					<button id="bt_Proveedo" size="large" label="Proveedores" onAction="Pvdres" image="Proveedores"/>
+					<button id="bt_Trabajdd" size="large" label="Analíticos" onAction="Trab" image="Analiticos"/>
+				</group>
+				<group id="grup_manttr" label="Parámetros">
+					<button id="bt_Plan" size="large" label="Plan de Cuentas" onAction="Pconta" image="Planc"/>
+					<button id="MnTablas" label="Tablas" size="large" onAction="Tabl" image="Tablas"/>
+					<button id="bt_Formatos" size="large" label="Formatos" onAction="Festa" image="Festados"/>
+					<button id="bt_Plantilla" size="large" label="Asientos prediseñados" onAction="Favoritos" image="Asientos"/>
+					<button id="bt_Configura" size="large" label="Opciones del Sistema" onAction="Configura" image="Configurar"/>
+					<button id="bt_Appi" size="large" label="API Sunat" onAction="ApiSunat" image="Apisunat"/>
+				</group>
+				<group id="grup_mant3" label="Utilitarios">
+					<button id="bt_Imprimir" size="large" label="Imprimir" onAction="impre" image="Imprimir"/>
+					<button id="bt_Exportar" size="large" label="Exportar a Excel" onAction="expo" image="aexcel"/>
+					<button id="bt_ExporPdf" size="large" label="Exportar a Pdf" onAction="expdf" image="apdf"/>
+				</group>
+				<group id="grup_Sair1">
+					<button id="bt_Inic1" size="large" label="Inicio" onAction="Inic" image="Inicio"/>
+					<button id="bt_Salir1" size="large" label="Salir" onAction="Sair" image="Salir1"/>
+				</group>
+			</tab>
+			<tab id="Tab3" label="CONTABILIDAD">
+				<group id="grup_Reg1" label="General">
+					<button id="bt_ElecEmpresa" size="large" label="Elegir Empresa" onAction="Eleccion" image="EliEmpre"/>
+					<button id="bt_PeriTrabajo" size="large" label="Perido de Trabajo" onAction="Periodo" image="EligirPeriodo"/>
+					<button id="bt_tc" size="large" label="TIpo de Cambio" onAction="CambioTipo" image="Tcambio"/>
+				</group>
+				<group id="grup_Rreg" label="Registros">
+					<button id="bt_MDocum" size="large" label="Compras" onAction="Rcomp" image="Compras"/>
+					<button id="bt_MdoVen" size="large" label="Ventas" onAction="Rvent" image="Ventass"/>
+					<button id="bt_MdoCaj" size="large" label="Caja" onAction="RCaj" image="Cajac"/>
+					<button id="bt_MdoBan" size="large" label="Bancos" onAction="RBancos" image="CtasCtes"/>
+					<button id="bt_MDiari" size="large" label="Diario" onAction="Rdiar" image="diary"/>
+					<button id="bt_MFijoo" size="large" label="Activos" onAction="Rafijo" image="auto"/>
+				</group>
+				<group id="grup_Rotrs" label="Otros Registros">
+					<button id="bt_MdocHo" size="large" label="Honorarios" onAction="RHonor" image="Honorar"/>
+					<button id="bt_GcPerr" size="large" label="Percepciones" onAction="RPercep" image="Percepciones"/>
+					<button id="bt_GcReti" size="large" label="Retenciones" onAction="VRret" image="retenciones"/>
+					<button id="bt_GcDetr" size="large" label="Detracciones" onAction="VRdetr" image="DetraReg"/>
+				</group>
+
+				<group id="grp_xvbsbs" label="Análisis">
+					<button id="bt_MMay41" size="large" label="Cuentas por Cobrar y/o Pagar" onAction="May614" image="Areferencia"/>
+					<button id="bt_MMay32" size="large" label="Analisis por Auxiliar" onAction="May63" image="Aauxiliar"/>
+					<button id="bt_MMay33" size="large" label="Mayor Analítico" onAction="May64" image="svalor"/>
+				</group>
+				<group id="grp_yyyyyy" label="Adicionales">
+					<button id="bt_CierNew" size="large" label="Cierres Importar" onAction="Cimport" image="CierreCont"/>
+					<button id="bt_AperNew" size="large" label="Apertura Importar" onAction="AperImpor" image="Apertura"/>
+				</group>
+				<group id="grup_Sair2">
+					<button id="bt_Inic2" size="large" label="Inicio" onAction="Inic" image="Inicio"/>
+					<button id="bt_Salir2" size="large" label="Salir" onAction="Sair" image="Salir1"/>
+				</group>
+			</tab>
+			
+            <tab id="ApiSmt1" label="SMART API" >
+                 <group id="Grupo_api01" label="SmartAPI">
+                    <button id="Api_PRORCE" size="large" label="Compras RCE" onAction="ApiProRCE" image="sirere"/>
+                    <button id="Api_HISTORIA_RCE" size="large" label="Historial RCE" onAction="DetalleDescargaRCE" image="HistoRCE"/>
+                    <button id="Api_PRORVIE" size="large" label="Ventas RVIE" onAction="ApiProRVIE" image="sirerv"/>
+                    <button id="Api_HISTORIA_RVIE" size="large" label="Historial RVIE" onAction="DetalleDescargaRVIE" image="HistoRVIE"/>
+                    <button id="Api_CONSULTA_CPE" size="large" label="Consulta CPE" onAction="ConsultaCPE" image="buscarcpe"/>
+                    <button id="Api_MASIVA_RCE" size="large" label="Consulta masiva CPE" onAction="CPEmasivoRCE" image="cpetodo"/>
+                </group>
+                    
+                 <group id="Grupo_Alert01" label="SmartAlert">
+                      <button id="Buzon_Alert" size="large" label="Alertas SUNAT" onAction="AlertaSunat" image="Alert1"/>
+                      <button id="Buzon_Sunat" size="large" label="Buzón SUNAT" onAction="BuzonSunat" image="Notifica1"/>
+                      <button id="Buzon_Sunafil" size="large" label="Casilla SUNAFIL" onAction="BuzonSunafil" image="casilla1"/>
+                 </group>
+                 <group id="Grupo_Alert02" label="Accesos">
+                      <button id="Acceso_sunat" size="large" label="Trámites y consultas" onAction="TramitesSunat" image="LogSunat"/>
+                      <button id="Acceso_declara" size="large" label="Declaraciones y Pagos" onAction="DeclaracionesSunat" image="LogDeclara"/>
+                      <button id="Acceso_casilla" size="large" label="Casilla Sunafil" onAction="CasillaSunafil" image="logSunafil"/>
+                 </group>
+                     
+                <group id="Grupo_api02" label="Utilitarios">
+					<button id="api_Imprimir" size="large" label="Imprimir" onAction="impre" image="Imprimir"/>
+					<button id="api_Exportar" size="large" label="Exportar a Excel" onAction="expo" image="aexcel"/>
+					<button id="api_ExporPdf" size="large" label="Exportar a Pdf" onAction="expdf" image="apdf"/>
+				</group>
+				<group id="Grupo_api03">
+					<button id="bt_api2" size="large" label="Inicio" onAction="Inic" image="Inicio"/>
+					<button id="bt_api3" size="large" label="Salir" onAction="Sair" image="Salir1"/>
+				</group>
+            </tab>
+			
+			<tab id="TabIn" label="INVENTARIOS">
+				<group id="grup_Gener" label="General">
+					<button id="bt_ALMACEN" size="large" label="Elegir Almacén" onAction="Almacen" image="Ealma"/>
+					<button id="bt_Product" size="large" label="Catálogo Productos" onAction="TbProd" image="catalogo"/>
+					<button id="bt_PStock" size="large" label="Stock" onAction="TbStok" image="Stock"/>
+				</group>
+				<group id="Proces" label="Proceso">
+					<button id="bt_NtIngre" size="large" label="Notas de Entrada" onAction="NIng" image="Nentrada"/>
+					<button id="bt_NtSalid" size="large" label="Notas de Salida" onAction="NSal" image="Nsalida"/>
+					<button id="bt_Ntransf" size="large" label="Transferencia" onAction="NTrasf" image="Ntransfer"/>
+					
+				<menu id="MnOtros" label="Otros" size="large" itemSize="large" image="Estadisticas">
+						<button id="bt_MOcompra" label="Orden de Compra" onAction="Ocompra" image="Compras"/>
+						<button id="bt_MNventa" label="Nota de Venta" onAction="Nventa" image="Ventass"/>
+					</menu>
+				</group>
+				<group id="Reporti" label="Reportes">
+					<button id="bt_Produ1" size="large" label="Productos" onAction="Produ1" image="Productes"/>
+					<button id="bt_Resum1" size="large" label="Detalle Movimientos" onAction="ResMov" image="detalle"/>
+					<button id="bt_Mprodo" size="large" label="Movimientos por Producto" onAction="Movm1" image="Mproducto"/>
+					<button id="bt_Stocka" size="large" label="Stock Actual" onAction="Stock1" image="Stockac"/>
+					<button id="bt_Srangf" size="large" label="Stock Por Periodo" onAction="StockRf" image="Stoperi"/>
+					<button id="bt_KardeS" size="large" label="Stock Valorizado" onAction="RepAnu" image="svalor"/>
+					<button id="bt_StokMo" size="large" label="Stock Mínimo y Máximo" onAction="StockM" image="Sminmo"/>
+					<menu id="MnKardex" label="Kardex" size="large" itemSize="large" image="Kvalor">
+						<button id="bt_Kardeu" label="Kardex Unidadades" onAction="RepInvU" image="efe2"/>
+						<button id="bt_Kardev" label="Kardex Valorizado" onAction="RepInvV" image="efe2"/>
+					</menu>
+				</group>
+				<group id="Varios" label="Otros">
+					<menu id="MnRcompra" label="Resumen de Compras" size="large" itemSize="large" image="Icompras">
+						<button id="bt_Compra1" label="Por Proveedor" onAction="Rcompa" image="Proveedores"/>
+						<button id="bt_Compra2" label="Por Producto" onAction="RcProd" image="catalogo"/>
+					</menu>
+					<menu id="MnRventa" size="large" label="Resumen de Ventas" itemSize="large" image="Iventas">
+						<button id="bt_Ventas1" label="Por Cliente" onAction="Rventa" image="Clientes"/>
+						<button id="bt_Ventas2" label="Por Producto" onAction="RvProd" image="catalogo"/>
+					</menu>
+					<menu id="MnUtil" size="large" label="Utilidad" itemSize="large" image="Utili">
+						<button id="bt_UtilP" label="Por Producto" onAction="Uprodu" image="catalogo"/>
+						<button id="bt_UtilF" label="Por Fecha" onAction="Ufecha" image="Apemes"/>
+					</menu>
+					<button id="bt_InvTras" size="large" label="Traslado de Saldos" onAction="TraSaldo" image="SaldoInv"/>
+				</group>
+				<group id="grup_Sair3">
+					<button id="bt_Inic3" size="large" label="Inicio" onAction="Inic" image="Inicio"/>
+					<button id="bt_Salir3" size="large" label="Salir" onAction="Sair" image="Salir1"/>
+				</group>
+			</tab>
+			<tab id="Tab4" label="REPORTES">
+				<group id="grp_Licbod121" label="Libros Contables">
+					<button id="bt_0001" label="R. de Compras" onAction="VCompras" image="compra"/>
+					<button id="bt_0002" label="R. de Ventas" onAction="VVenta" image="venta"/>
+					<button id="bt_0003" label="Libro Caja" onAction="Vcaja" image="Rcaja"/>
+					<button id="bt_0004" label="Libro Bancos" onAction="VBanco" image="Ranco"/>
+					<button id="bt_0005" label="Libro diario" onAction="VDiario" image="rdiario"/>
+					<button id="bt_0006" label="Libro Mayor" onAction="VMayor" image="Rmayo"/>
+					<button id="bt_0007" label="Activo Fijo" onAction="Rvafij" image="Rfijo"/>
+					<button id="bt_008" label="Honorarios" onAction="VHonor" image="Rhonor"/>
+				</group>
+				<group id="grp_zzssddd" label="Reportes Contables">
+					<button id="bt_HHTT0" size="large" label="Sumas y Saldos" onAction="Hhtt0" image="Hoja1"/>
+					<button id="bt_HHTT1" size="large" label="Hoja de trabajo" onAction="Hhtt1" image="hoja2"/>
+					<button id="bt_BBGG" size="large" label="E.S. Financiera" onAction="BbGg" image="efe1"/>
+					<button id="bt_EGPF" size="large" label="ERI por Funcion" onAction="EgpF" image="Balan2"/>
+					<button id="bt_EGPN" size="large" label="ERI por Naturaleza" onAction="EgpN" image="efe3"/>
+					<button id="bt_FLEF" size="large" label="E. Flujos de Efectivo" onAction="FleF" image="efe4"/>
+					<button id="bt_NOTA" size="large" label="Notas a los EE.FF" onAction="Fnota" image="notaf"/>
+				</group>
+				<group id="grp_Licbod12" label="Sunat">
+					<button id="bt_Sire0" size="large" label="Propuesta SIRE" onAction="Ppta_rvie" image="Descarga"/>
+					<menu id="SIreMe0" size="large" label="Archivos SIRE" itemSize="large" image="mige">
+						<button id="bt_Sire1" label="RVIE" onAction="Sire1" image="Ventass"/>
+						<button id="bt_Sire2" label="RCE" onAction="Sire2" image="Compras"/>
+					</menu>
+					<button id="bt_Ple11" size="large" label="PLE" onAction="ple" image="ple"/>
+					<menu id="TxtSun" size="large" label="Archivos SUNAT" itemSize="large" image="facil">
+						<button id="bt_Daot1" label="DAOT" onAction="Daot" image="daote"/>
+						<button id="bt_Pdt62" label="Declara Facil" onAction="Pdt621" image="facil"/>
+						<button id="bt_Plma1" label="Renta 4ta" onAction="Pdt601" image="plame"/>
+						<button id="bt_Detra" label="Detracciones" onAction="DeTr" image="detracc"/>
+					</menu>
+
+					<button id="bt_LiqIv" size="large" label="Liquidador IGV-Renta" onAction="LiqIgv" image="LiqImp"/>
+					<button id="bt_ValPSE" size="large" label="Validación de CP" onAction="ValCpe" image="ValCpe"/>
+					<button id="bt_Renta" size="large" label="Renta Anual" onAction="Renta" image="Renta"/>
+				</group>
+				<group id="grup_Sair4">
+					<button id="bt_Inic4" size="large" label="Inicio" onAction="Inic" image="Inicio"/>
+					<button id="bt_Salir4" size="large" label="Salir" onAction="Sair" image="Salir1"/>
+				</group>
+			</tab>
+			<tab id="Tab18" label="PLANILLA">
+				<group id="Pla_General" label="General">
+					<menu id="Parame" size="large" label="Parámetros" itemSize="large" image="Parametro">
+						<button id="bt_Para00" label="Configuración" onAction="OpcSis" image="Confi"/>
+						<button id="bt_Para01" label="Tributos Afecto" onAction="PlConcepto" image="Afecta"/>
+						<button id="bt_Para02" label="Detalle Conceptos" onAction="PlDetal" image="Detal"/>
+						<button id="bt_Para03" label="Porcentajes AFP" onAction="PorAfp" image="PoraF"/>
+						<button id="bt_Para06" label="Cuentas personal" onAction="CtaPerson" image="CtaPersona"/>
+						<button id="bt_Para04" label="Tabla Sueldos" onAction="TbGen" image="GeTb"/>
+						<button id="bt_Para05" label="Tabla Salarial" onAction="TbSal" image="Salarial"/>
+						<button id="bt_Para07" label="Tablas Sistema" onAction="PlTablas" image="Tablas"/>
+					</menu>
+
+					<menu id="Ptrabaj" size="large" label="Trabajadores" itemSize="large" image="Proveedores">
+						<button id="bt_pltrab" label="Registro Trabajador" onAction="PlTraba" image="Honorar"/>
+						<button id="bt_RemFij" label="Conceptos Trabajador" onAction="RemFija" image="Fijo"/>
+						<button id="bt_plDere" label="Derechohabientes" onAction="PlDerec" image="vinfa"/>
+					</menu>
+				</group>
+				<group id="Pla_Pproces" label="Proceso Planilla">
+					<menu id="JJLL" size="large" label="Jornada Laboral" itemSize="large" image="Jlabora">
+						<button id="bt_PlaSem" label="Regsitro Semanas" onAction="ConSema" image="Semanas" />
+						<button id="bt_DiaLa" label="Jornada Laboral" onAction="DiaLab" image="Labdia" />
+					</menu>
+					<button id="bt_BolPag" size="large" label="Registro Planilla" onAction="BolPag" image="efe2"/>
+					<button id="bt_Pquint" size="large" label="Renta 5ta. categoria" onAction="QuiNta" image="Quin"/>
+					<button id="bt_PlaCom" size="large" label="Registro Comisiones" onAction="Comis" image="conm"/>
+					
+					<menu id="Preprt" size="large" label="Reportes Planilla" itemSize="large" image="Planali">
+						<button id="bt_Pgener" label="Planilla General" onAction="RepoPla" image="Planil" />
+						<button id="bt_Ptraba" label="Planilla Analítico" onAction="PlanTra" image="Planali" />
+						<button id="bt_Ptrubr" label="Planilla Rubro" onAction="PlaRubro" image="RubroPla" />
+					</menu>
+					<button id="bt_Pgbole" size="large" label="Boletas de Pago" onAction="GenBol" image="Bole" />
+				</group>
+
+				<group id="Pla_Potros" label="Asistencia">
+					<button id="bt_Pporva" size="large" label="Control Vacaciones" onAction="ProVaca" image="Vaca"/>
+					<menu id="Tasist" size="large" label="Control Asistencia" itemSize="large" image="Marcar">
+						<button id="bt_CAtur" label="Turnos" onAction="CAtur" image="tareo"/>
+						<button id="bt_CAreg" label="Registro" onAction="CAreg" image="Asiste"/>
+						<button id="bt_CalPla" label="Cálculo Jornada" onAction="CalPla" image="PcsPla" />
+						<button id="bt_CArep" label="Reportes" onAction="CArep" image="RepAsi"/>
+					</menu>
+				
+				</group>
+				<group id="Pla_Repor" label="Beneficios Sociales">
+					<menu id="BBSS" size="large" label="Beneficios Sociales" itemSize="large" image="Clientes">
+						<button id="bt_BGrat" label="Gratificaciones" onAction="ReGrati" image="grati1"/>
+						<button id="bt_BCts" label="C.T.S." onAction="RegCts" image="cts1"/>
+						<button id="bt_BVac" label="Vacaciones" onAction="RegVaca" image="Vaka"/>
+						<button id="Bt_Liqu" label="Registro Liquidación" onAction="BsConsol" image="Liquida" />
+					</menu>
+
+				<menu id="BbssGet" size="large" label="Reporte General" itemSize="large" image="BsGener" >
+					<button id="Bs_get1" label="Gratificaciones" onAction="GratiGet" image="grati1" />	
+					<button id="Bs_get2" label="Vacaciones" onAction="VacaGeT" image="Vaka" />
+					<button id="Bs_get3" label="CTS" onAction="CTSGet" image="cts1" />
+				</menu>
+
+				<menu id="BbssAna" size="large" label="Reporte Analítico" itemSize="large" image="BsAnali" >
+					<button id="Bs_ana1" label="Gratificaciones" onAction="GratiAna" image="grati1" />	
+					<button id="Bs_ana2" label="Vacaciones" onAction="VacaAna" image="Vaka" />
+					<button id="Bs_ana3" label="CTS" onAction="CTSAna" image="cts1" />
+					<button id="BS_RepGen" label="Liquidación BB.SS." onAction="BsLiqui" image="BsLiquida" />
+				</menu>
+				<menu id="BbssCons" size="large" label="Constancia de BB.SS." itemSize="large" image="BsConsta" >
+					<button id="Bs_Cons1" label="Gratificaciones" onAction="GratiConsta" image="grati1" />	
+					<button id="Bs_Cons2" label="Vacaciones" onAction="VacaConsta" image="Vaka" />
+					<button id="Bs_Cons3" label="CTS" onAction="CTSConsta" image="cts1" />
+				</menu>
+				</group>
+
+				<group id="Psunat" label="Sunat">
+					<button id="bt_PAfp" size="large" label="AfpNet" onAction="AfpNet" image="Afp"/>
+					<button id="bt_Plam" size="large" label="Plame" onAction="Plame" image="Factura"/>
+					<menu id="Tregist" size="large" label="T-Registro" itemSize="large" image="Treg">
+						<button id="bt_Traba" label="Trabajadores" onAction="TTraba" image="Proveedores"/>
+						<button id="bt_Pens" label="Pensionistas" onAction="TPensi" image="Pension"/>
+						<button id="bt_Derec" label="Derechohabientes" onAction="TDerec" image="vinfa"/>
+					</menu>
+					<button id="bt_TxBan" size="large" label="Banco Archivo txt" onAction="TxtBanco" image="TxtBan" />
+				</group>
+
+				<group id="Mplani1">
+					<button id="bt_Mpla101" size="large" label="Inicio" onAction="Inic" image="Inicio"/>
+					<button id="bt_Mpla111" size="large" label="Salir" onAction="Sair" image="Salir1"/>
+				</group>
+			</tab>
+			<tab id="Tab15" label="UTILITARIOS">
+				<group id="grup_Sgenrl" label="General">
+					<button id="bt_Scondt" size="large" label="Consistencia de Datos" onAction="ConDatos" image="actual"/>
+					<button id="bt_MandDa" size="large" label="Mantenimiento de Datos" onAction="MandA" image="mandatos"/>
+				</group>
+				<group id="grup_Segr" label="Seguridad">
+					<button id="bt_Periodo" size="large" label="Aperuta, Cierre de Meses" onAction="Aperio" image="Apemes"/>
+					<button id="bt_Seguridad" size="large" label="Generar Backaup" onAction="Gbackup" image="Gbackup"/>
+					<button id="bt_reguridad" size="large" label="Restaurar Backaup" onAction="Rbackup" image="Rbackup"/>
+					<button id="bt_CopiarBd" size="large" label="Copiar Base de Datos" onAction="CopyBd" image="CopyBd"/>
+				</group>
+				<group id="grup_SOtros" label="Otros">
+					<button id="bt_Ssolis" size="large" label="Licencia" onAction="SolReg" image="Licencia"/>
+					<button id="bt_Direrecto" size="large" label="Conexión Empresa" onAction="DirBd" image="conect"/>
+					<button id="bt_Restab" size="large" label="Conexion General" onAction="ResCnx" image="ConGeneral"/>
+					<button id="bt_Rsyste" size="large" label="Restaurar Sistema" onAction="Rsystem" image="ReSistem"/>
+					<button id="bt_Panel" size="large" label="Panel de Control" onAction="PanelC" image="Panelc"/>
+					<button id="bt_MandAc" size="large" label="Actualizar Data" onAction="ActData" image="DataUpd"/>
+				</group>
+				<group id="grp_Suporte" label="Ayuda">
+					<button id="bt_soportt" size="large" label="Sobre el Sistema" onAction="Sopor" image="System"/>
+					<button id="bt_legalpoli" size="large" label="Términos y condiciones" onAction="LegalPolitica" image="politica" />
+					<menu id="MnAyuda" size="large" label="Soporte Virtual" itemSize="large" image="contactos" screentip="Soporte Virtual" supertip="Puede enviar sus consultas al WhastApp o correo electrónico">
+						<button id="bt_Fcebook" label="Facebook" onAction="Facebok" image="facebook"/>
+						<button id="bt_twitter" label="Twitter" onAction="Twitter" image="twitter"/>
+						<button id="bt_Instagr" label="Instagram" onAction="Instagra" image="Instagram"/>
+						<button id="bt_Watsapp" label="WhatsApp" onAction="WhatsAp" image="whastApp"/>
+						<button id="bt_Email" label="E-mail" onAction="Email" image="Email"/>
+					</menu>
+					<button id="bt_Ayuda" size="large" label="Videos sobre el Sistema" onAction="YouTobe" image="Youtobe"/>
+					<button id="bt_Demofa" size="large" label="Demo Facturación" onAction="Demofa" image="mfact"/>
+				</group>
+				<group id="grup_Sair5">
+					<button id="bt_Inic5" size="large" label="Inicio" onAction="Inic" image="Inicio"/>
+					<button id="bt_Salir5" size="large" label="Salir" onAction="Sair" image="Salir1"/>
+				</group>
+			</tab>
+			<tab id="Tab16" label="IMPORTAR DATOS">
+				<group id="Importar1" label="Contabilidad">
+					<menu id="ImpoClie" size="large" label="Clientes" itemSize="large" image="Clientes">
+						<button id="Cli_Formato" label="Maestro Clientes" onAction="ImpoClie" image="aexcel"/>
+						<button id="Cli_Consulta" label="Consultar Registros" onAction="Cli_Consulta" image="Consultar"/>
+						<button id="Cli_Borra" label="Limpiar Maestro" onAction="Cli_Borra" image="Borra"/>
+						<button id="Cli_Actual" label="Actualizar Registros" onAction="Cli_Actual" image="Actualiza"/>
+						<button id="Cli_Importa" label="Importar Registros" onAction="Cli_Importa" image="importa"/>
+					</menu>
+					<menu id="ImpoProve" size="large" label="Proveedores" itemSize="large" image="Proveedores">
+						<button id="Prov_Formato" label="Maestro Proveedores" onAction="ImpoProv" image="aexcel"/>
+						<button id="Prov_Consulta" label="Consultar Registros" onAction="Prov_Consulta" image="Consultar"/>
+						<button id="Prov_Borra" label="Limpiar Maestro" onAction="Prov_Borra" image="Borra"/>
+						<button id="Prov_Actual" label="Actualizar Registros" onAction="Prov_Actual" image="Actualiza"/>
+						<button id="Prov_Importa" label="Importar Registros" onAction="Prov_Importa" image="importa"/>
+					</menu>
+					<menu id="ImpoProdu" size="large" label="Productos" itemSize="large" image="catalogo">
+						<button id="Prod_Formato" label="Maestro Productos" onAction="ImpoProd" image="aexcel"/>
+						<button id="Prod_Consulta" label="Consultar Registros" onAction="Prod_Consulta" image="Consultar"/>
+						<button id="Prod_Borra" label="Limpiar Maestro" onAction="Prod_Borra" image="Borra"/>
+						<button id="Prod_Actual" label="Actualizar Registros" onAction="Prod_Actual" image="Actualiza"/>
+						<button id="Prod_Importa" label="Importar Registros" onAction="Prod_Importa" image="importa"/>
+					</menu>
+					<menu id="ImpoNota" size="large" label="Movimientos Almacén" itemSize="large" image="Nentrada">
+						<button id="Nota_Formato" label="Maestro Notas" onAction="ImpoMovi" image="aexcel"/>
+						<button id="Nota_Consulta" label="Consultar Registros" onAction="Nota_Consulta" image="Consultar"/>
+						<button id="Nota_Borra" label="Limpiar Maestro" onAction="Nota_Borra" image="Borra"/>
+						<button id="Nota_Completa" label="Completar Datos" onAction="Nota_Completa" image="completa"/>
+						<button id="Nota_Importa" label="Importar Registros" onAction="Nota_Importa" image="importa"/>
+					</menu>
+					<menu id="ImpoPlan" size="large" label="Plan Contable" itemSize="large" image="Planc">
+						<button id="Plan_Formato" label="Maestro Cuentas" onAction="ImpoPlan" image="aexcel"/>
+						<button id="Plan_Consulta" label="Consultar Registros" onAction="Plan_Consulta" image="Consultar"/>
+						<button id="Plan_Borra" label="Limpiar Maestro" onAction="Plan_Borra" image="Borra"/>
+						<button id="Plan_Actual" label="Actualizar Registros" onAction="Plan_Actual" image="Actualiza"/>
+						<button id="Plan_Importa" label="Importar Registros" onAction="Plan_Importa" image="importa"/>
+					</menu>
+					<menu id="ImpoDiar" size="large" label="Asientos Diario" itemSize="large" image="diary">
+						<button id="Diar_Formato" label="Maestro Diario" onAction="ImpoDiar" image="aexcel"/>
+						<button id="Diar_Consulta" label="Consultar Registros" onAction="Diar_Consulta" image="Consultar"/>
+						<button id="Diar_Borra" label="Limpiar Maestro" onAction="Diar_Borra" image="Borra"/>
+						<button id="Diar_Completa" label="Completar Datos" onAction="Diar_Completa" image="completa"/>
+						<button id="Diar_Importa" label="Importar Registros" onAction="Diar_Importa" image="importa"/>
+					</menu>
+					<menu id="ImpoComp" size="large" label="Documentos Compras" itemSize="large" image="Compras">
+						<button id="Comp_Formato" label="Maestro Compras" onAction="ImpoCom" image="aexcel"/>
+						<button id="Comp_Consulta" label="Consultar Registros" onAction="Comp_Consulta" image="Consultar"/>
+						<button id="Comp_Borra" label="Limpiar Maestro" onAction="Comp_Borra" image="Borra"/>
+						<button id="Comp_Completa" label="Completar Datos" onAction="Comp_Completa" image="completa"/>
+						<button id="Comp_Importa" label="Importar Registros" onAction="Comp_Importa" image="importa"/>
+						<button id="Comp_ProRCE" label="Descargar Propuesta" onAction="Rce_Proppta" image="Descarga"/>
+						<button id="Comp_Plantil" label="Descargar Plantilla" onAction="Comp_Plantil" image="aexcel"/>
+					</menu>
+					<menu id="ImpoVent" size="large" label="Documentos Ventas" itemSize="large" image="Ventass">
+						<button id="Vent_Formato" label="Maestro Ventas" onAction="ImpoVen" image="aexcel"/>
+						<button id="Vent_Consulta" label="Consultar Registros" onAction="Vent_Consulta" image="Consultar"/>
+						<button id="Vent_Borra" label="Limpiar Maestro" onAction="Vent_Borra" image="Borra"/>
+						<button id="Vent_Completa" label="Completar Datos" onAction="Vent_Completa" image="completa"/>
+						<button id="Vent_Importa" label="Importar Registros" onAction="Vent_Importa" image="importa"/>
+						<button id="Vent_ProRVIE" label="Descargar Propuesta" onAction="Rvie_Proppta" image="Descarga"/>
+						<button id="Vent_Plantil" label="Descargar Plantilla" onAction="vent_Plantil" image="aexcel"/>
+					</menu>
+					<menu id="ImpoCaja" size="large" label="Movimientos Caja" itemSize="large" image="Cajac">
+						<button id="Caja_Formato" label="Maestro Caja" onAction="ImpoCaj" image="aexcel"/>
+						<button id="Caja_Consulta" label="Consultar Registros" onAction="Caja_Consulta" image="Consultar"/>
+						<button id="Caja_Borra" label="Limpiar Maestro" onAction="Caja_Borra" image="Borra"/>
+						<button id="Caja_Completa" label="Completar Datos" onAction="Caja_Completa" image="completa"/>
+						<button id="Caja_Importa" label="Importar Registros" onAction="Caja_Importa" image="importa"/>
+						<button id="Caja_Plantil" label="Descargar Plantilla" onAction="Caja_Plantil" image="aexcel"/>
+					</menu>
+					<menu id="ImpoBanc" size="large" label="Movimientos Bancos" itemSize="large" image="CtasCtes">
+						<button id="Banc_Formato" label="Maestro Bancos" onAction="ImpoBan" image="aexcel"/>
+						<button id="Banc_Consulta" label="Consultar Registros" onAction="Banc_Consulta" image="Consultar"/>
+						<button id="Banc_Borra" label="Limpiar Maestro" onAction="Banc_Borra" image="Borra"/>
+						<button id="Banc_Completa" label="Completar Datos" onAction="Banc_Completa" image="completa"/>
+						<button id="Banc_Importa" label="Importar Registros" onAction="Banc_Importa" image="importa"/>
+						<button id="Banc_Plantil" label="Descargar Plantilla" onAction="Banc_Plantil" image="aexcel"/>
+					</menu>
+					<menu id="ImpoHonor" size="large" label="Honorarios" itemSize="large" image="Honorar">
+						<button id="Honor_Formato" label="Maestro Honorarios" onAction="ImpoHono" image="aexcel"/>
+						<button id="Honor_Consulta" label="Consultar Registros" onAction="Honor_Consulta" image="Consultar"/>
+						<button id="Honor_Borra" label="Limpiar Maestro" onAction="Honor_Borra" image="Borra"/>
+						<button id="Honor_Completa" label="Completar Datos" onAction="Honor_Completa" image="completa"/>
+						<button id="Honor_Importa" label="Importar Registros" onAction="Honor_Importa" image="importa"/>
+						<button id="Honor_Plantil" label="Descargar Plantilla" onAction="Honor_Plantil" image="aexcel"/>
+					</menu>
+					<menu id="ImpoTipoC" size="large" label="Tipo Cambio" itemSize="large" image="Tcambio">
+						<button id="Tipoc_Formato" label="Maestro Tipo Cambio" onAction="ImpoTipoc" image="aexcel"/>
+						<button id="TipoC_Consulta" label="Consultar Registros" onAction="Tipoc_Consulta" image="Consultar"/>
+						<button id="TipoC_Borra" label="Limpiar Maestro" onAction="Tipoc_Borra" image="Borra"/>
+						<button id="TipoC_Completa" label="Completar Datos" onAction="Tipoc_Completa" image="completa"/>
+						<button id="TipoC_Importa" label="Importar Registros" onAction="Tipoc_Importa" image="importa"/>
+					</menu>
+				</group>
+				<group id="Importar3" label="Planilla">
+					<menu id="ImpoTipoP" size="large" label="Trabajadores" itemSize="large" image="Aauxiliar">
+						<button id="TipoP_Formato" label="Maestro Trabajadores" onAction="ImpoTrab" image="aexcel"/>
+						<button id="TipoP_Consulta" label="Consultar Registros" onAction="TipoP_Consulta" image="Consultar"/>
+						<button id="TipoP_Borra" label="Limpiar Maestro" onAction="TipoP_Borra" image="Borra"/>
+						<button id="TipoP_Completa" label="Completar Datos" onAction="TipoP_Completa" image="completa"/>
+						<button id="Tipop_Actual" label="Actualizar Registros" onAction="TipoP_Actual" image="Actualiza"/>
+						<button id="TipoP_Importa" label="Importar Registros" onAction="TipoP_Importa" image="importa"/>
+						<button id="TipoP_Plantil" label="Descargar Plantilla" onAction="TipoP_Plantil" image="aexcel"/>
+					</menu>
+					<menu id="ImpoTipoS" size="large" label="Planilla" itemSize="large" image="efe2">
+						<button id="TipoS_Formato" label="Maestro Planilla" onAction="ImpoPlani" image="aexcel"/>
+						<button id="TipoS_Consulta" label="Consultar Registros" onAction="TipoS_Consulta" image="Consultar"/>
+						<button id="TipoS_Borra" label="Limpiar Maestro" onAction="TipoS_Borra" image="Borra"/>
+						<button id="TipoS_Completa" label="Completar Datos" onAction="TipoS_Completa" image="completa"/>
+						<button id="TipoS_Importa" label="Importar Registros" onAction="TipoS_Importa" image="importa"/>
+						<button id="TipoS_Plantil" label="Descargar Plantilla" onAction="TipoS_Plantil" image="aexcel"/>
+					</menu>
+					<menu id="ImpoTipoA" size="large" label="Asistencia" itemSize="large" image="tareo">
+						<button id="TipoA_Formato" label="Maestro Asistencia" onAction="ImpoAsis" image="aexcel"/>
+						<button id="TipoA_Consulta" label="Consultar Registros" onAction="TipoA_Consulta" image="Consultar"/>
+						<button id="TipoA_Borra" label="Limpiar Maestro" onAction="TipoA_Borra" image="Borra"/>
+						<button id="TipoA_Completa" label="Completar Datos" onAction="TipoA_Completa" image="completa"/>
+						<button id="TipoA_Actual" label="Actualizar Registros" onAction="TipoA_Actual" image="Actualiza"/>
+						<button id="TipoA_Importa" label="Importar Registros" onAction="TipoA_Importa" image="importa"/>
+						<button id="TipoA_Plantil" label="Descargar Plantilla" onAction="TipoA_Plantil" image="aexcel"/>
+					</menu>
+					<menu id="PlaJornal" size="large" label="Jornada Laboral" itemSize="large" image="Jlabora">
+						<button id="Jorn_Formato" label="Maestro J. Laboral" onAction="Jorn_Import" image="aexcel"/>
+						<button id="Jorn_Consulta" label="Consultar Registros" onAction="Jorn_Consulta" image="Consultar"/>
+						<button id="Jorn_Borra" label="Limpiar Maestro" onAction="Jorn_Borra" image="Borra"/>
+						<button id="Jorn_Completa" label="Completar Datos" onAction="Jorn_Completa" image="completa"/>
+						<button id="Jorn_Actual" label="Actualizar Registros" onAction="Jorn_Actual" image="Actualiza"/>
+						<button id="Jorn_Importa" label="Importar Registros" onAction="Jorn_Importa" image="importa"/>
+						<button id="Jorn_Plantil" label="Descargar Plantilla" onAction="Jorn_Plantil" image="aexcel"/>
+					</menu>
+				</group>
+				<group id="Importar2">
+					<button id="bt_Impo101" size="large" label="Inicio" onAction="Inic" image="Inicio"/>
+					<button id="bt_Impo111" size="large" label="Salir" onAction="Sair" image="Salir1"/>
+				</group>    
+			</tab>
+  			<tab idMso="TabReview" visible="false">
+			</tab>
+			<tab idMso="TabInsert" visible="false">
+			</tab>
+			<tab idMso="TabDeveloper" visible="true">
+			</tab>
+		</tabs>
+	</ribbon>
+	<backstage>
+		<button idMso="ApplicationOptionsDialog" visible="false"/>
+		<button idMso="FileClose" visible="false"/>
+		<tab idMso="Publish2Tab" visible="false"/>
+		<tab idMso="TabSave" visible="false"/>
+		<tab idMso="TabRecent" visible="false"/>
+		<tab idMso="TabInfo" visible="false"/>
+		<tab idMso="TabShare" visible="false"/>
+		<tab idMso="TabHelp" visible="false"/>
+		<tab idMso="TabOfficeStart" visible="false"/>
+		<tab idMso="TabPublish" visible="false"/>
+		<tab idMso="TabHelp" visible="false"/>
+		<tab id="TabPublish" label="Información" insertBeforeMso="TabInfo">
+			<firstColumn>
+				<group id="TestGrp" label="Información" helperText="https://bit.ly/3ciG2g4">
+					<primaryItem>
+						<button id="myemputon" label="Smartcont Systems" image="System" onAction="whatsap"/>
+					</primaryItem>
+				</group>
+			</firstColumn>
+		</tab>
+	</backstage>
+</customUI>

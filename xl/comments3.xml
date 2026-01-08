@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>CHAVEZ</author></authors><commentList><comment ref="B7" authorId="0" shapeId="0" xr:uid="{E4055CB2-2D8C-4B8A-A75D-84A2F893BEA3}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-10 caracteres 
+-Obligatorio</t></r></text></comment><comment ref="C7" authorId="0" shapeId="0" xr:uid="{25BABA87-D635-4ABF-89DD-6F93A233A639}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-60 caracteres 
+-Obligatorio</t></r></text></comment><comment ref="D7" authorId="0" shapeId="0" xr:uid="{ACEABCBB-31CE-4CD7-8A9F-FAAF0CD3A165}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Texto
+-3 caracteres 
+-Obligatorio</t></r></text></comment><comment ref="E7" authorId="0" shapeId="0" xr:uid="{6C2CBF32-12FE-42FA-AD14-B5A3E3D8D6DC}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Texto
+-3 caracteres 
+-Obligatorio
+-Validar tabla categorias (configuración - tablas)</t></r></text></comment><comment ref="F7" authorId="0" shapeId="0" xr:uid="{339E510F-1B93-4BFC-AF3A-0FD8F6B45801}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Texto
+-3 caracteres 
+-Obligatorio
+-Validar tabla Familias (configuración - Tablas)
+</t></r></text></comment><comment ref="G7" authorId="0" shapeId="0" xr:uid="{42DA73B7-7AA9-46D1-9AFC-683503935B75}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Texto
+-2 caracteres 
+-Obligatorio
+-Validar tabla tipos de existencias
+(configuración - tablas)</t></r></text></comment><comment ref="H7" authorId="0" shapeId="0" xr:uid="{86FC3CA1-6A7F-4E5B-8B68-847CBB595A60}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Texto
+-3 caracteres 
+-Obligatorio
+-Validar tabla unidad de medida 
+(configuración - Tablas)</t></r></text></comment><comment ref="I7" authorId="0" shapeId="0" xr:uid="{21FD3C81-5D3C-4C47-A916-FA4150DF46B6}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Númerico
+-Si no tiene valor, considerar 0</t></r></text></comment><comment ref="J7" authorId="0" shapeId="0" xr:uid="{DF2B5049-BF0A-4E9D-AE0B-7F550EADC693}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Númerico
+-Si no tiene valor, considerar 0</t></r></text></comment><comment ref="K7" authorId="0" shapeId="0" xr:uid="{8D34355F-4E84-4FC3-9B27-F09E2F345E3F}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Númerico
+-Si no tiene valor, considerar 0</t></r></text></comment><comment ref="L7" authorId="0" shapeId="0" xr:uid="{A2222C86-5ED7-42D8-8F84-D8478FE0BEA8}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Númerico
+-Si no tiene valor, considerar 0</t></r></text></comment><comment ref="M7" authorId="0" shapeId="0" xr:uid="{9BF4D48C-5C0D-4780-81F5-5BAD0B2A4C63}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Númerico
+-Si no desea controlar stock mínimo, considerar 0</t></r></text></comment><comment ref="N7" authorId="0" shapeId="0" xr:uid="{0F492C4C-220D-48D8-8974-CD1A016A29F4}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Númerico
+-Si no desea controlar stock máximo, considerar 0</t></r></text></comment><comment ref="O7" authorId="0" shapeId="0" xr:uid="{5ED2C0B2-88C6-4A6D-9A71-1D64FCD4C965}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-01 caracteres
+-1= afecto
+-0= inafecto</t></r></text></comment><comment ref="P7" authorId="0" shapeId="0" xr:uid="{A9FA75BE-17F4-48D8-8976-3BC693DD8326}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-01 caracteres
+-1= destinado a compras
+-0= no destinado a compras</t></r></text></comment><comment ref="Q7" authorId="0" shapeId="0" xr:uid="{54671C5A-4C9A-4164-A2B5-51C2D6869D86}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-01 caracteres
+-Obligatorio
+-1= destinado a ventas
+-0= no destinado a ventas</t></r></text></comment><comment ref="R7" authorId="0" shapeId="0" xr:uid="{125B5D47-3C66-4627-A07E-7E2D279E3C99}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-6 caracteres
+-Opcional</t></r></text></comment><comment ref="S7" authorId="0" shapeId="0" xr:uid="{F4D62536-3211-47C9-9123-1DD8F4E778B7}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-6 caracteres
+-Opcional</t></r></text></comment><comment ref="T7" authorId="0" shapeId="0" xr:uid="{D6295025-753D-4BE7-823B-BACD34897C5F}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-10 caracteres
+-Opcional</t></r></text></comment><comment ref="U7" authorId="0" shapeId="0" xr:uid="{4C896FD4-9E92-4FFB-B25C-FCD172A36C3C}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanúmerico
+-10 caracteres
+-Opcional</t></r></text></comment><comment ref="V7" authorId="0" shapeId="0" xr:uid="{39933DEE-68AD-4393-B566-A66CDF42A704}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-60caracteres
+-Opcional</t></r></text></comment><comment ref="W7" authorId="0" shapeId="0" xr:uid="{E270962E-D41C-4989-B5A0-53172469DE25}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-60 caracteres
+-Opcional</t></r></text></comment><comment ref="X7" authorId="0" shapeId="0" xr:uid="{2A73745D-B46E-4DFA-BE32-F63FC366CE89}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-60 caracteres
+-Opcional</t></r></text></comment><comment ref="Y7" authorId="0" shapeId="0" xr:uid="{0B60BCAF-01B2-49A8-B089-8DFE75C895AE}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-200 caracteres
+-Opcional</t></r></text></comment><comment ref="Z7" authorId="0" shapeId="0" xr:uid="{F0B0C2BA-3467-4C33-AF38-3D5591AF5F8D}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-01 caracteres
+-Obligatorio
+1= activo
+0= inactivo</t></r></text></comment><comment ref="AA8" authorId="0" shapeId="0" xr:uid="{63234CE2-2793-4E52-8171-871DB746B85E}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-10 caracteres
+-Opcional</t></r></text></comment><comment ref="AB8" authorId="0" shapeId="0" xr:uid="{704C8F0F-FBB5-4ECD-9090-87DD9BBF3567}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Opcional</t></r></text></comment><comment ref="AC8" authorId="0" shapeId="0" xr:uid="{B1E9E2F7-678A-4E9D-A5C6-ADBC2BD60EA8}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Opcional</t></r></text></comment></commentList></comments>

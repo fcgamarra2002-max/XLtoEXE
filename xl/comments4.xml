@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>CHAVEZ</author></authors><commentList><comment ref="B7" authorId="0" shapeId="0" xr:uid="{10C64A1F-FFA5-4138-A455-46454923CF75}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-10 caracteres</t></r></text></comment><comment ref="C7" authorId="0" shapeId="0" xr:uid="{95A77273-2215-4B3A-88CD-68C190B187E1}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-11 caracteres</t></r></text></comment><comment ref="D7" authorId="0" shapeId="0" xr:uid="{43F15884-1FF2-461C-BAE8-00D421098E66}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-02 caracteres
+-Validar tabla tipo de operación 
+(mantenimiento/parametros/tablas)</t></r></text></comment><comment ref="E7" authorId="0" shapeId="0" xr:uid="{6D914652-6D10-42C9-AB43-04E26BDDE5C3}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-03 caracteres</t></r></text></comment><comment ref="F7" authorId="0" shapeId="0" xr:uid="{0A77B973-3382-47B3-A39D-F79A68AE4987}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Opcional
+-03 caracteres
+-Obligatorio para transferencias
+</t></r></text></comment><comment ref="G7" authorId="0" shapeId="0" xr:uid="{EA4F7CA3-8AB9-4789-8620-D394D6EA8759}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-02 caracteres
+-Validar tabla tipo de documentos
+(mantenimiento/parametros/tablas)</t></r></text></comment><comment ref="H7" authorId="0" shapeId="0" xr:uid="{B6EA3756-AD4F-4185-AFFC-D7C2BA2D37AF}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-04 caracteres
+</t></r></text></comment><comment ref="I7" authorId="0" shapeId="0" xr:uid="{EB39F37B-D71C-4F2E-B111-610E995DA3C1}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-06 caracteres
+</t></r></text></comment><comment ref="J7" authorId="0" shapeId="0" xr:uid="{2DB2C3E7-D9D9-4510-8842-15B48755F23F}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Fecha
+-Obligatorio
+-10 caracteres
+</t></r></text></comment><comment ref="K7" authorId="0" shapeId="0" xr:uid="{CCCB427C-DB56-49B1-ACA3-8C74C934FD05}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Texto
+-Obligatorio
+-03 caracteres
+-Validar tabla tipo de monedas
+(mantenimiento/parametros/tablas)</t></r></text></comment><comment ref="L7" authorId="0" shapeId="0" xr:uid="{A6FA4F47-78D4-4404-B43F-2597233931CD}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-formato "0.000"
+- para monda nacional 
+considerar "1.000")</t></r></text></comment><comment ref="M7" authorId="0" shapeId="0" xr:uid="{5CB524B7-5FBA-4414-994B-905F983CCF5D}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-03 caracteres
+-Para entradas "200"
+-Para salidas "300"
+</t></r></text></comment><comment ref="N7" authorId="0" shapeId="0" xr:uid="{D22F9A6E-4CE7-4BAF-9A99-56F556C68BA0}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Opcional
+-100 caracteres
+</t></r></text></comment><comment ref="O7" authorId="0" shapeId="0" xr:uid="{12F57262-5119-4018-97C4-568967B32A9A}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-01 caracteres
+-Afecto "1"
+-Inafecto "0"
+</t></r></text></comment><comment ref="P7" authorId="0" shapeId="0" xr:uid="{0800F6F3-D0E2-415E-B55F-822D36407622}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-01 caracteres
+-Incluido Igv "1"
+-Mas Igv "0"
+</t></r></text></comment><comment ref="Q7" authorId="0" shapeId="0" xr:uid="{869E2DCE-13D1-4FEE-8E80-9D4FC4B8889E}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-01 caracteres
+-Activo "1"
+-Inactivo "2"
+</t></r></text></comment><comment ref="R7" authorId="0" shapeId="0" xr:uid="{121EEED0-ABD5-4A17-BC0C-4C5F47DD494F}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-03 caracteres
+-Correlativo por operación
+</t></r></text></comment><comment ref="S7" authorId="0" shapeId="0" xr:uid="{8073E61D-C1E7-402C-AB4A-CBE22FA7C0CE}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-11 caracteres
+-Validar con lista de productos
+(proceso/general/catalogo de producto)</t></r></text></comment><comment ref="T7" authorId="0" shapeId="0" xr:uid="{AAAEC823-E075-43E1-A14F-CDC9D5FD94F5}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-formato "0.000"
+
+</t></r></text></comment><comment ref="U7" authorId="0" shapeId="0" xr:uid="{BF651E8C-E441-4E01-808B-CEB8B72164F6}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-formato "0.0000"
+-Valor sin impuestos</t></r></text></comment><comment ref="V7" authorId="0" shapeId="0" xr:uid="{FA3AADDA-9754-48DD-A624-EFD87A4742C9}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-formato "0.00"
+-Producto campos
+ (vcant * vunita)</t></r></text></comment><comment ref="W7" authorId="0" shapeId="0" xr:uid="{1EE6A868-396D-4A73-8973-E47C51025210}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-formato "0.00"
+-Mayor a "0" si campo aigv="1"
+-Producto
+ (Vtotal * tasa impuesto)</t></r></text></comment><comment ref="X7" authorId="0" shapeId="0" xr:uid="{3001DF2E-0BCE-49AD-B957-D9B802EABDE7}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-formato "0.00"
+-Suma campos
+ (Vtotal + Vigv)</t></r></text></comment><comment ref="Y7" authorId="0" shapeId="0" xr:uid="{D0CE6BE2-9E4C-4F57-A663-4D5F12DA3E97}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Opcional
+-06 caracteres
+-Obligatorio para integración con sistema contable
+</t></r></text></comment></commentList></comments>

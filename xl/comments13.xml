@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>PC</author></authors><commentList><comment ref="B8" authorId="0" shapeId="0" xr:uid="{7F8419B9-5D9A-49C7-A040-3520681221C2}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Llenado automático</t></r></text></comment><comment ref="C8" authorId="0" shapeId="0" xr:uid="{AB9A6415-483F-4B05-94E5-F76C08506C28}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Llenado automático</t></r></text></comment><comment ref="J8" authorId="0" shapeId="0" xr:uid="{E54680D8-0FC9-4998-ACA3-E624BEEA8907}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+01 SOLTERO
+02 CASADO
+03 VIUDO
+04 DIVORCIADO
+05 CONVIVIENTE
+</t></r></text></comment><comment ref="K8" authorId="0" shapeId="0" xr:uid="{ABA7D2D4-FEB1-40B9-AC1C-D2E48E6CD05B}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Masculino=1
+-Femenino=2</t></r></text></comment><comment ref="W8" authorId="0" shapeId="0" xr:uid="{69FAE47E-C980-4B04-8F8E-429D7B9D02B1}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+01 D LEG N.° 728
+16 MICROEMPRESA
+17 PEQUEÑA EMPRESA
+18 AGRARIO
+20 MINEROS
+21 CONSTRUCCION CIVIL
+99 OTROS
+</t></r></text></comment><comment ref="X8" authorId="0" shapeId="0" xr:uid="{87457D7C-542D-44E1-AD67-0119361B415F}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+001 OPERARIO
+002 OFICIAL
+003 PEÓN
+OTRO REG. DEJAR EN BLANCO</t></r></text></comment><comment ref="Y8" authorId="0" shapeId="0" xr:uid="{7C01EEB1-F85F-43BC-9F84-CF37670EDA9C}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+01 EJECUTIVO EJE
+02 OBRERO OBR
+03 EMPLEADO EMP</t></r></text></comment><comment ref="Z8" authorId="0" shapeId="0" xr:uid="{D3B2CCCD-B6C2-44FC-988D-7096008BBFE8}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Tabla ocupacion 
+999001 OCUPACIÓN NO ESPECIFICADA</t></r></text></comment><comment ref="AA8" authorId="0" shapeId="0" xr:uid="{21037E99-7DA6-467A-B34A-12346911A5BE}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+01 A PLAZO INDET - D.LEG. 728
+02 A TIEMPO PARCIAL
+03 POR INICIO O INCREM DE ACTIV
+04 POR NECES DEL MERCADO
+05 POR RECONV EMPRESARIAL
+06 OCASIONAL
+07 DE SUPLENCIA
+08 DE EMERGENCIA
+09 OBRA DETERM O SERV ESPEC
+10 INTERMITENTE
+</t></r></text></comment><comment ref="AB8" authorId="0" shapeId="0" xr:uid="{58ABAB19-489B-4E49-95EB-2BD574587273}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+1 EFECTIVO
+2 DEPÓSITO EN CUENTA
+3 OTROS
+</t></r></text></comment><comment ref="AC8" authorId="0" shapeId="0" xr:uid="{D8711264-C251-4485-B497-AE6A9FF2D971}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+1 MENSUAL
+2 QUINCENAL
+3 SEMANAL
+4 DIARIA
+5 OTROS
+</t></r></text></comment><comment ref="AD8" authorId="0" shapeId="0" xr:uid="{64405CB4-2111-4E5F-9EF6-62C709936969}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+002 BANCO DE CRÉDITO DEL PERÚ 
+003 INTERBANK 
+011 BBVA BANCO CONTINENTAL 
+009 SCOTIABANK PERÚ 
+018 BANCO DE LA NACIÓN 
+</t></r></text></comment><comment ref="AE8" authorId="0" shapeId="0" xr:uid="{01D9F06C-C00B-49C3-9128-8BA0F16A3374}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Donde se depositará el sueldo</t></r></text></comment><comment ref="AF8" authorId="0" shapeId="0" xr:uid="{D21F4D1A-C508-4288-B194-1C15E01F140F}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Valor Númerico</t></r></text></comment><comment ref="AZ8" authorId="0" shapeId="0" xr:uid="{3DE1F6CA-3560-4ADC-93AF-C49750C602B6}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- SI=1
+- NO= 0</t></r></text></comment><comment ref="BA8" authorId="0" shapeId="0" xr:uid="{BA10147C-28EB-477D-B37D-69E04B367E1D}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- SI=1
+- NO= 0</t></r></text></comment><comment ref="BB8" authorId="0" shapeId="0" xr:uid="{CBEAA3CA-0C58-4D51-B9EB-30E6A621A784}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Código establecimiento Sunat</t></r></text></comment><comment ref="BS8" authorId="0" shapeId="0" xr:uid="{859E03E1-4730-46CC-A921-95529F12EE86}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- SI=1
+- NO= 0</t></r></text></comment><comment ref="BT8" authorId="0" shapeId="0" xr:uid="{006516B0-AC44-48BE-A124-23FE498AA8D1}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- SI=1
+- NO= 0</t></r></text></comment><comment ref="BU8" authorId="0" shapeId="0" xr:uid="{A3877344-241A-400B-BF48-A4D12F22133E}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- Fija=1
+- Variable= 0</t></r></text></comment><comment ref="BV8" authorId="0" shapeId="0" xr:uid="{EEC7BE5A-633B-419B-8805-91DA8DD0EEA3}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Validar tabla centro de costos</t></r></text></comment><comment ref="BW8" authorId="0" shapeId="0" xr:uid="{90918370-292E-43B8-8EEF-83FC0915E2A4}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- Activo=1
+- Inactivo= 0</t></r></text></comment><comment ref="D9" authorId="0" shapeId="0" xr:uid="{0C9E2F0F-81C8-4431-A7F1-50C5B16EF26B}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+00 DOCUMENTO NACIONAL DE IDENTIDAD 
+01 CARNET DE EXTRANJERÍA 
+04 REG. ÚNICO DE CONTRIBUYENTES 
+06 PASAPORTE 
+07 CARNÉ DE SOLICIT DE REFUGIO 
+09 PARTIDA DE NACIMIENTO 
+11 CARNÉ DE ID. RELACIONES EXTERIORES 
+22 CARNÉ DE PERM. TEMP. PERMANENCIA 
+23 DOC. DE IDENTIDAD EXTRANJERO 
+</t></r></text></comment><comment ref="L9" authorId="0" shapeId="0" xr:uid="{8F950EB9-6782-42A9-8E1F-FDF06043D4AE}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Validad tabla Paises
+604 PERU</t></r></text></comment><comment ref="M9" authorId="0" shapeId="0" xr:uid="{333A5000-58AC-4164-AB5F-2D42C37095C5}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Válidar Tabla departamento</t></r></text></comment><comment ref="N9" authorId="0" shapeId="0" xr:uid="{75CA8430-6351-43E5-B49B-F035192E0D1A}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Validar tabla provincias</t></r></text></comment><comment ref="O9" authorId="0" shapeId="0" xr:uid="{F65D9D0C-C908-43A5-A7C8-ED59A11457C6}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Validad tabla distrito</t></r></text></comment><comment ref="P9" authorId="0" shapeId="0" xr:uid="{4464232D-DBC6-4A22-B9B7-C652089F90B0}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+01 AVENIDA
+02 JIRÓN
+03 CALLE
+04 PASAJE
+17 PROLONGACIÓN
+99 OTROS
+-    LIBRE
+</t></r></text></comment><comment ref="AG9" authorId="0" shapeId="0" xr:uid="{35B6E5E5-7BC9-4EFF-B90D-28B23D3324FF}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+1 TRABAJADOR
+2 PENSIONISTA
+3 PERSONAL DE TERCEROS
+4 PERSONAL EN FORMACIÓN
+</t></r></text></comment><comment ref="AH9" authorId="0" shapeId="0" xr:uid="{390C5808-176D-4B81-B5DE-46DC77557A32}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+01 RENUNCIA
+02 RENUNCIA CON INCENTIVOS
+03 DESPIDO O DESTITUCIÓN
+04 CESE COLECTIVO
+05 JUBILACIÓN
+06 INVALIDEZ ABSOLUTA PERMAN
+07 TERMIN OBRA/SERV, CUMPLIM CONDIC RESOL. O VENC PLAZO
+08 MUTUO DISENSO
+09 FALLECIMIENTO
+10 SUSPENSIÓN DE LA PENSIÓN
+
+ACTIVO: DEJAR EN BLANCO</t></r></text></comment><comment ref="AJ9" authorId="0" shapeId="0" xr:uid="{F1847982-B443-42C4-B623-54939AE4C39F}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+</t></r><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>ACTIVO:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve"> DEJAR EN BLANCO</t></r></text></comment><comment ref="AK9" authorId="0" shapeId="0" xr:uid="{4EFCB38A-BF10-40A0-814E-714B7031E972}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+19 EJECUTIVO
+20 OBRERO
+21 EMPLEADO
+22 TRAB.PORTUARIO
+23 PRACT. SENATI
+24 PENSIONISTA O CESANTE
+26 PENSIONISTA - LEY 28320
+27 CONSTRUCCIÓN CIVIL
+28 PILOTO Y COPIL DE AVIA. COM.
+29 MARÍT, FLUVIAL O LACUSTRE
+</t></r></text></comment><comment ref="AM9" authorId="0" shapeId="0" xr:uid="{FA567531-EC5D-476D-8942-D632E291EE4C}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+</t></r><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>ACTIVO:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve"> DEJAR EN BLANCO</t></r></text></comment><comment ref="AN9" authorId="0" shapeId="0" xr:uid="{BDE89344-B3E2-4BC9-922B-F220280B694E}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+02 ONP - DECRETO LEY 19990
+14 ONP - LEY 29903 - SNP INDEPENDIENTE
+21 INTEGRA
+23 PROFUTURO
+24 PRIMA
+25 HABITAT 
+99 SIN REG PENSIONARIO/NO APLICA
+</t></r></text></comment><comment ref="AP9" authorId="0" shapeId="0" xr:uid="{07212354-82AE-4940-AADA-99ED91D3E66F}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+</t></r><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>ACTIVO:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve"> DEJAR EN BLANCO</t></r></text></comment><comment ref="AQ9" authorId="0" shapeId="0" xr:uid="{24A46853-1F7E-4876-9F96-6B359C0A4BD5}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-FLUJO
+-MIXTA</t></r></text></comment><comment ref="AS9" authorId="0" shapeId="0" xr:uid="{54F961DE-37BA-4A94-B3D5-98778ED6D6E2}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+00 ESSALUD REGULAR 
+01 ESSALUD REGULAR Y EPS/SERV. PROP.
+02 ESSALUD TRAB PESQUEROS
+03 ESSALUD TRAB PESQ Y EPS(SERV.PROP)
+04 ESSALUD AGRARIO/ACUÍCOLA
+05 ESSALUD PENSIONISTAS
+21 SIS – MICROEMPRESA
+</t></r></text></comment><comment ref="AV9" authorId="0" shapeId="0" xr:uid="{B3E13CA7-9CEB-44ED-88BC-1A5A2C4D6B8C}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+</t></r><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>ACTIVO:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve"> DEJAR EN BLANCO</t></r></text></comment><comment ref="AW9" authorId="0" shapeId="0" xr:uid="{6BD065C8-BCD5-498C-BEBB-D9A3F063D169}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- SI=1
+- NO= 0</t></r></text></comment><comment ref="AX9" authorId="0" shapeId="0" xr:uid="{D59BD6C7-22CF-4855-B5AB-5162E1148956}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- SI=1
+- NO= 0</t></r></text></comment><comment ref="AY9" authorId="0" shapeId="0" xr:uid="{27D117C4-7882-408C-9F55-89250B0272DA}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- SI=1
+- NO= 0</t></r></text></comment><comment ref="BC9" authorId="0" shapeId="0" xr:uid="{F17E7457-82C0-455E-9943-D9AD057BF30C}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+002 BANCO DE CRÉDITO DEL PERÚ
+003 INTERBANK
+011 BBVA BANCO CONTINENTAL
+009 SCOTIABANK PERÚ
+018 BANCO DE LA NACIÓN
+</t></r></text></comment><comment ref="BF9" authorId="0" shapeId="0" xr:uid="{792E1C1E-7E48-479E-A635-3DAB87C57447}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- SI=1
+- NO= 0</t></r></text></comment><comment ref="BG9" authorId="0" shapeId="0" xr:uid="{560B0A97-F8D3-40D7-A9CE-4C801A2CC352}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- No= 0
+- ONP= 1
+- Seguro Privado=2</t></r></text></comment><comment ref="BH9" authorId="0" shapeId="0" xr:uid="{314576EA-0486-4D5F-8E6A-A5A91BAB6D2B}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- No=0
+-EsSalud = 1
+-EPS= 2</t></r></text></comment><comment ref="BL9" authorId="0" shapeId="0" xr:uid="{B2582357-7363-4581-9D5B-191B42940664}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+01 SIN EDUCACIÓN FORMAL
+02 ESPECIAL INCOMPLETA
+03 ESPECIAL COMPLETA
+04 PRIMARIA INCOMPLETA
+05 PRIMARIA COMPLETA
+06 SECUNDARIA INCOMPLETA
+07 SECUNDARIA COMPLETA
+08 TÉCNICA INCOMPLETA
+09 TÉCNICA COMPLETA
+10 SUPERIOR INCOMPLETA (INSTIT. SUPER)
+</t></r></text></comment><comment ref="BM9" authorId="0" shapeId="0" xr:uid="{45213201-718C-4ECA-AAEF-B52154580053}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- SI=1
+- NO= 0</t></r></text></comment><comment ref="BN9" authorId="0" shapeId="0" xr:uid="{6FC19146-5BB5-4682-A299-08C4CDFAD456}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- Pública=1
+- Privada= 0</t></r></text></comment><comment ref="BO9" authorId="0" shapeId="0" xr:uid="{7B4A3E35-AFA4-437C-A4A1-DE30C40D7216}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+13 SUPERIOR UNIVERSITARIA COMPLETA
+11 SUPERIOR INSTITUTO COMPLETA
+</t></r></text></comment><comment ref="BP9" authorId="0" shapeId="0" xr:uid="{7F179515-0CC0-40BE-BEAA-1358048A36E6}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+260000052 UNIV. CESAR VALLEJO 
+260000059 UNIVERSIDAD ALAS PERUANAS 
+240332510 ISTP LIMA 
+</t></r></text></comment><comment ref="BQ9" authorId="0" shapeId="0" xr:uid="{0A355B82-3048-43E6-A0D0-A56367D1C1F6}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+342025  CONTABILIDAD 
+524035  ELECTRÓNICA INDUSTRIAL 
+531016  INGENIERIA CIVIL 
+511026  INGENIERIA DE SISTEMAS 
+714016  ENFERMERÍA 
+711026  MEDECINA HUMANA 
+</t></r></text></comment></commentList></comments>

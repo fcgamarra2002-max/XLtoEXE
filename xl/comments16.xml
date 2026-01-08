@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>PC</author></authors><commentList><comment ref="B8" authorId="0" shapeId="0" xr:uid="{D98F3CE6-06E9-4B87-A68D-CCE052C1B5BE}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+1: Activo
+0: Inactivo</t></r></text></comment><comment ref="C8" authorId="0" shapeId="0" xr:uid="{981FEBBB-9CF8-49B6-AD3B-0BF574C3B02B}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Código de Trabajador
+Vlidar ID registro (Maestro Trabjadores)</t></r></text></comment><comment ref="D8" authorId="0" shapeId="0" xr:uid="{9784988B-2459-4CEC-A9F9-BD64CE72E5EB}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Id de turno, validar regsitro de turnos</t></r></text></comment><comment ref="E8" authorId="0" shapeId="0" xr:uid="{5D555925-2275-48B7-9480-20E5DB87C053}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Código de establacimiento</t></r></text></comment><comment ref="F8" authorId="0" shapeId="0" xr:uid="{8D5BA6CE-9AE3-4694-AB3F-3C41D1D25504}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+01 D LEG N.° 728
+16 MICROEMPRESA
+17 PEQUEÑA EMPRESA
+18 AGRARIO
+20 MINEROS
+21 CONSTRUCCION CIVIL
+99 OTROS
+
+
+</t></r></text></comment><comment ref="G8" authorId="0" shapeId="0" xr:uid="{A90DD640-FB72-443F-A776-38C3734C4D22}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Fecha registro de asistenacia
+
+validar formato dd/mm/yyyy</t></r></text></comment><comment ref="H8" authorId="0" shapeId="0" xr:uid="{683E92D1-9925-42F4-B747-C1FAF958EB02}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+- Entrada=1
+- Salida =2</t></r></text></comment><comment ref="I8" authorId="0" shapeId="0" xr:uid="{76B02D4D-2032-4730-AC7E-2621F021D915}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Hora de registro
+
+Validar formato HH:MM am/pm
+</t></r></text></comment><comment ref="K8" authorId="0" shapeId="0" xr:uid="{788650C7-95DE-473D-B58F-73CD7EF5408E}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+1: Activo
+0: Inactivo</t></r></text></comment></commentList></comments>

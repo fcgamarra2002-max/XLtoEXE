@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>CHAVEZ</author></authors><commentList><comment ref="B7" authorId="0" shapeId="0" xr:uid="{DA6A8915-5F15-4E46-AA0C-02C342A1E924}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Texto
+-6 caracteres 
+-Obligatorio</t></r></text></comment><comment ref="C7" authorId="0" shapeId="0" xr:uid="{D3196F52-921F-4F15-ADE2-71696137D9EA}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-60 caracteres
+-Obligatorio
+</t></r></text></comment><comment ref="D7" authorId="0" shapeId="0" xr:uid="{D08AB1CF-1329-4D5C-91C2-9F43262DEC5F}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-01caracteres
+-Obligatorio
+-1 cta. Detalle (de registro)
+-0 Cta. General</t></r></text></comment><comment ref="E7" authorId="0" shapeId="0" xr:uid="{60B68CE0-1696-4D3F-B383-B134D6B30E14}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-01 caracteres
+-Obligatorio
+-1 Activo
+-2 Pasivo y Patrimonio
+-3 RI Naturaleza
+-4 RI Función
+-5 Resultados
+-6 Costos de Producción
+-7 Saldos de Gestión
+-9 Cuentas de Orden</t></r></text></comment><comment ref="F7" authorId="0" shapeId="0" xr:uid="{8415CCB3-F1C0-4968-B136-9327355397E8}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-10 caracteres
+-Opcional
+- Cuenta contable asociada 
+para asiento automático (DEBE)</t></r></text></comment><comment ref="G7" authorId="0" shapeId="0" xr:uid="{748E6D58-A9C4-403B-837D-62D21D758B42}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-10 caracteres
+-Opcional
+- Cuenta contable asociada 
+para asiento automático (HABER)
+</t></r></text></comment><comment ref="I7" authorId="0" shapeId="0" xr:uid="{78CBD63F-6798-4D9C-B9B9-BECB52A499CA}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-10 caracteres
+-Opcional
+- Cuenta contable asociada 
+para asiento automático (DEBE)</t></r></text></comment><comment ref="J7" authorId="0" shapeId="0" xr:uid="{AE4C9985-E5E9-42F3-AA72-433F490C36AE}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-10 caracteres
+-Opcional
+- Cuenta contable asociada 
+para asiento automático (HABER)
+</t></r></text></comment><comment ref="L7" authorId="0" shapeId="0" xr:uid="{7DE9238C-1BA1-42B1-9CCE-4CF2E8E6395E}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-04 caracteres
+-Obligatorio
+-Validar formatos EE.FF (Mantenimiento - Parámetros)</t></r></text></comment><comment ref="M7" authorId="0" shapeId="0" xr:uid="{A84E1325-1AAF-4C57-B06D-00186082E691}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-04 caracteres
+-Obligatorio
+-Validar formatos EE.FF (Mantenimiento - Parámetros)</t></r></text></comment><comment ref="N7" authorId="0" shapeId="0" xr:uid="{9F020916-1560-487F-AECA-E76F60B7E682}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-04 caracteres
+-Obligatorio
+-Validar formatos EE.FF (Mantenimiento - Parámetros)</t></r></text></comment><comment ref="R7" authorId="0" shapeId="0" xr:uid="{E92955DD-9678-498C-80BA-EFA76D28AD97}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-04 caracteres
+-Opcional
+-Validar formatos EE.FF (Mantenimiento - Parámetros)</t></r></text></comment><comment ref="S7" authorId="0" shapeId="0" xr:uid="{E131C1D9-4400-426C-B7B9-CE73AF21A0D8}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">CHAVEZ:
+</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>-Alfanumerico
+-04 caracteres
+-Opcional
+-Validar formatos EE.FF (Mantenimiento - Parámetros</t></r></text></comment><comment ref="T7" authorId="0" shapeId="0" xr:uid="{B070F186-9089-46D9-A1E9-1E9C75AEF206}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-01 caracteres
+-Obligatorio
+-1=Activo
+-0=Inactivo</t></r></text></comment></commentList></comments>

@@ -1,0 +1,2 @@
+INFORME DE DESOFUSCACIÓN Y LIMPIEZA
+Directorio de trabajo: output

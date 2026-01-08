@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>RCHAVEZ</author></authors><commentList><comment ref="B8" authorId="0" shapeId="0" xr:uid="{DB95C440-2B6C-453C-ABFB-CD19566EAEE1}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-10 caracteres
+-Se genera de forma automática</t></r></text></comment><comment ref="C8" authorId="0" shapeId="0" xr:uid="{EFB0B0D7-5459-4FAA-A459-E3A50C4A554E}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-11 caracteres</t></r></text></comment><comment ref="F8" authorId="0" shapeId="0" xr:uid="{EA7E3B0B-0D56-4B3D-897A-9399112D04F6}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Fecha (dd/mm/yyyy)
+-Obligatorio
+-10 caracteres</t></r></text></comment><comment ref="G8" authorId="0" shapeId="0" xr:uid="{E48761C4-3DEE-4F3F-8233-971539DCF890}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Fecha (dd/mm/yyyy)
+-Obligatorio
+-10 caracteres
+</t></r></text></comment><comment ref="J8" authorId="0" shapeId="0" xr:uid="{665D4463-39B5-43B4-81CA-CBFCE172EACF}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-03 Caracteres
+-Validar tabla centro de costos</t></r></text></comment><comment ref="K8" authorId="0" shapeId="0" xr:uid="{EB62D551-A4B1-4753-BDAD-3415A53F580E}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-03 Caracteres
+-Obligatorio
+-03 caracteres
+-Código de establecimiento
+</t></r></text></comment><comment ref="L8" authorId="0" shapeId="0" xr:uid="{AA9C99EF-B2C3-4B20-9940-6D15C4545E74}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-03 caracteres
+-Validar tabla Medios de Pago
+-Solo acepta "CREDITO"</t></r></text></comment><comment ref="O8" authorId="0" shapeId="0" xr:uid="{F86473ED-5CE4-4E08-8527-3D847A513C44}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+</t></r></text></comment><comment ref="Q8" authorId="0" shapeId="0" xr:uid="{88673B90-A6E4-4127-8CDF-9A0A66501C2D}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+
+</t></r></text></comment><comment ref="R8" authorId="0" shapeId="0" xr:uid="{F87589FE-1FC9-48AF-9538-5CEAA2028F01}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Obligatorio
+-01 caracteres
+-Validar estructura P.L.E</t></r></text></comment><comment ref="AG8" authorId="0" shapeId="0" xr:uid="{472FC7DF-52DC-4F64-882F-2615D063DF40}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Código de Medio de pago validar tabla medios de pago</t></r></text></comment><comment ref="AH8" authorId="0" shapeId="0" xr:uid="{A8559F4E-C92F-4CDE-8A20-6685C5458B91}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Código Estado flujo de efectivo</t></r></text></comment><comment ref="AI8" authorId="0" shapeId="0" xr:uid="{EE386F37-C5B1-4B48-B048-5106B6F59F4B}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-60 caracteres</t></r></text></comment><comment ref="D9" authorId="0" shapeId="0" xr:uid="{AF2693AA-4703-4180-BDBC-34EE53A33AAB}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-04 caracteres</t></r></text></comment><comment ref="E9" authorId="0" shapeId="0" xr:uid="{521FFB0D-4B93-49F6-81BB-057B40EB3290}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-09 caracteres
+</t></r></text></comment><comment ref="H9" authorId="0" shapeId="0" xr:uid="{C2545475-635B-40F3-96C7-D63472A08C7B}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-03 caracteres
+-Tabla 04 Sunat
+-Validar tabla monedas
+(Mantenimiento - Tablas)</t></r></text></comment><comment ref="I9" authorId="0" shapeId="0" xr:uid="{FCFA552C-B094-4191-BBF3-8EE4BA2BC864}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico (0.000)
+-Obligatorio
+-05 Caracteres
+-Si moneda es PEN, T.c.=1.000
+-Si es &lt;&gt; PEN validar tipo de cambio fecha</t></r></text></comment><comment ref="M9" authorId="0" shapeId="0" xr:uid="{8CF54F9F-493B-4231-9123-498746B2BB75}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-01 caracteres
+-0=No afecto
+-1=Afecto</t></r></text></comment><comment ref="N9" authorId="0" shapeId="0" xr:uid="{1D1DEFE2-0AE2-44D1-9E0D-B35E1277277E}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numercio
+-01 caracteres
+-&gt;0 si afecto=1
+-Porcentaje Retención</t></r></text></comment><comment ref="AB9" authorId="0" shapeId="0" xr:uid="{217E48E5-AD0A-4239-A557-08A189291794}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Cuenta contable asociada a la cuenta de banco o de efectivo</t></r></text></comment><comment ref="AC9" authorId="0" shapeId="0" xr:uid="{9251EC10-1571-44A4-9EAC-3B43F4AA0680}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Código de banco
+-validar con tabla áreas de caja chica o cuentas bancarias</t></r></text></comment><comment ref="AD9" authorId="0" shapeId="0" xr:uid="{8E50FDC2-6064-4832-AEAD-E4F0D9A28354}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Número de cuenta
+-validad con tabla áreas de caja chica o cuentas bancarias</t></r></text></comment><comment ref="AE9" authorId="0" shapeId="0" xr:uid="{48E1E833-58D8-456D-B297-4C5025B0FCC7}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Número de Operación de caja u operación bancaria</t></r></text></comment><comment ref="AF9" authorId="0" shapeId="0" xr:uid="{D69FFAC6-AB02-4C12-95C1-DE7342A8DD81}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Importe total a Pagar</t></r></text></comment></commentList></comments>

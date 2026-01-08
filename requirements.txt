@@ -1,0 +1,9 @@
+oletools
+openpyxl
+lxml
+pyxlsb
+xlwings
+msoffcrypto-tool
+flet
+pefile
+git+https://github.com/decalage2/ViperMonkey.git

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>PC</author></authors><commentList><comment ref="B8" authorId="0" shapeId="0" xr:uid="{23D4BC8F-AB8F-4E9B-9545-78DBA54632AA}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:Id registro</t></r></text></comment><comment ref="C8" authorId="0" shapeId="0" xr:uid="{07EDD1DF-E0C7-4F96-8EF7-2769C4FB9ABC}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+01 D LEG N.° 728
+16 MICROEMPRESA
+17 PEQUEÑA EMPRESA
+18 AGRARIO
+20 MINEROS
+21 CONSTRUCCION CIVIL
+99 OTROS</t></r></text></comment><comment ref="D8" authorId="0" shapeId="0" xr:uid="{BB52FAD8-4331-4714-8B27-DDC3B8B183A0}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Validar código de Semana
+
+Planilla&gt;Registro de semanas</t></r></text></comment><comment ref="T8" authorId="0" shapeId="0" xr:uid="{00168B72-DAAE-4551-B359-EE399FEADE82}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+PEN: Soles
+USD: Dolares</t></r></text></comment><comment ref="W8" authorId="0" shapeId="0" xr:uid="{BB07CE8F-897E-48A0-9098-24428B917B70}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+1: SI
+0: NO</t></r></text></comment><comment ref="AL8" authorId="0" shapeId="0" xr:uid="{6D77A19E-2F7A-476C-B697-A402997601A6}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+1: Activo
+0: Inactivo</t></r></text></comment><comment ref="E9" authorId="0" shapeId="0" xr:uid="{8A07910D-F960-433B-A9E9-F8BDE6DB5185}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Código de trabajador</t></r></text></comment><comment ref="X9" authorId="0" shapeId="0" xr:uid="{2C5A5480-91DE-4030-87CD-2434D3034097}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+1: Ingresos
+2: Aportes del trabajador
+3: Descuentos
+4: Aportes del empleador</t></r></text></comment><comment ref="Y9" authorId="0" shapeId="0" xr:uid="{8EA2A162-B683-4E72-995E-01A6468507B4}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Correlativo por Grupo</t></r></text></comment><comment ref="Z9" authorId="0" shapeId="0" xr:uid="{73603792-C9BF-4B3E-8985-949FBFFF5673}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Código concepto (validar detalle de conceptos)
+
+-4 dígitos</t></r></text></comment><comment ref="AA9" authorId="0" shapeId="0" xr:uid="{43A312D9-1AC5-43D4-B120-9CA142C79D1A}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Formato número</t></r></text></comment></commentList></comments>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>RCHAVEZ</author><author>PC</author></authors><commentList><comment ref="B7" authorId="0" shapeId="0" xr:uid="{E30468F4-F30B-42BA-99C2-158F3755387D}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-10 caracteres
+- Se genera de forma automática</t></r></text></comment><comment ref="C7" authorId="0" shapeId="0" xr:uid="{82D471EA-75A2-477D-BF92-3FA0AB3CDA74}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-03 caracteres
+(afectación)
+-Validar tabla Afec. - Ventas</t></r></text></comment><comment ref="D7" authorId="0" shapeId="0" xr:uid="{8EF783AF-C081-490E-A88D-E55AD270D334}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-03 caracteres
+-001=Venta Local
+-002=Exoportación</t></r></text></comment><comment ref="E7" authorId="0" shapeId="0" xr:uid="{B80AB5F7-CC8B-4014-8C74-5CFBF144B406}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-03 caracteres
+-Código de establecimiento
+</t></r></text></comment><comment ref="F7" authorId="0" shapeId="0" xr:uid="{323292FA-B9B1-4254-AF36-1BBDC07DB440}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-11 caracteres</t></r></text></comment><comment ref="L7" authorId="0" shapeId="0" xr:uid="{9B53386F-D5E7-4AAD-8239-915774C3AD35}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Opcional
+-09 caracteres
+-Para consolidar comprobantes por fecha</t></r></text></comment><comment ref="O7" authorId="0" shapeId="0" xr:uid="{844F4287-145E-4097-9E1A-8113F302EDF3}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-03 Caracteres
+-Validar tabla centro de costos</t></r></text></comment><comment ref="P7" authorId="0" shapeId="0" xr:uid="{7214DA16-299D-41B4-856A-CCCDA726DF75}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Texto
+-Obligatorio
+-Versión acepta - "CREDITO", Los pagos se realizan por el módulo de Caja y Bancos</t></r></text></comment><comment ref="Q7" authorId="1" shapeId="0" xr:uid="{C07D698C-8804-401A-8570-B0E1017E2F0C}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>PC:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+18
+10 (Ley 31556)</t></r></text></comment><comment ref="Z7" authorId="0" shapeId="0" xr:uid="{89EBB776-CB54-413D-A768-6D88A4BC8B29}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Obligatorio
+-01 caracteres
+-Validar estructura SIRE/PLE</t></r></text></comment><comment ref="AN7" authorId="0" shapeId="0" xr:uid="{DA8808A8-6E94-4331-8ADD-77CC84A330A7}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Código de Medio de pago validar tabla medios de pago</t></r></text></comment><comment ref="AO7" authorId="0" shapeId="0" xr:uid="{8CB79D97-6572-4F8A-9876-84F443550A79}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Código Estado flujo de efectivo</t></r></text></comment><comment ref="G8" authorId="0" shapeId="0" xr:uid="{48F91389-B10B-42EE-813C-9524C582C368}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-02 caracteres
+-Tabla 10 Sunat
+-Validar tabla tipo de documentos</t></r></text></comment><comment ref="H8" authorId="0" shapeId="0" xr:uid="{6D6F6D5D-B37D-4098-82E8-0EE784F789E0}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-04 caracteres</t></r></text></comment><comment ref="I8" authorId="0" shapeId="0" xr:uid="{881BE8CC-E81A-45D7-AA56-8B4A3BD1A66B}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-09 caracteres</t></r></text></comment><comment ref="J8" authorId="0" shapeId="0" xr:uid="{070EAE64-95E0-4E20-AF19-C6C91FEF1BC1}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Fecha (dd/mm/yyyy)
+-Obligatorio
+-10 caracteres</t></r></text></comment><comment ref="K8" authorId="0" shapeId="0" xr:uid="{BF00608E-15B5-416D-95BC-3FBCA4A4F5FD}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Fecha (dd/mm/yyyy)
+-Obligatorio
+-10 caracteres
+-Si no tiene fecha de vencimiento, considerar fecha de emisión
+</t></r></text></comment><comment ref="M8" authorId="0" shapeId="0" xr:uid="{C4D3E4AB-E5C6-47FF-88B4-CCE65768272D}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-03 caracteres
+-Tabla 04 Sunat
+-Validar tabla monedas
+(Mantenimiento - Tablas)</t></r></text></comment><comment ref="N8" authorId="0" shapeId="0" xr:uid="{51BE77FF-A435-4F14-B279-4FB68A2D5BC9}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico (0.000)
+-Obligatorio
+-05 Caracteres
+-Si moneda es PEN, T.c.=1.000
+-Si es &lt;&gt; PEN validar tipo de cambio fecha</t></r></text></comment><comment ref="AI8" authorId="0" shapeId="0" xr:uid="{BD3AAAA8-C3B8-4500-86D5-43475576DD01}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Cuenta contable asociada a la cuenta de banco o de efectivo</t></r></text></comment><comment ref="AJ8" authorId="0" shapeId="0" xr:uid="{D31B5240-86C5-467A-9EBA-43DCD4AAA055}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Código de banco
+-validar con tabla áreas de caja chica o cuentas bancarias</t></r></text></comment><comment ref="AK8" authorId="0" shapeId="0" xr:uid="{EBAFC2EC-5051-4D7F-8A4A-1D14F7150342}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Número de cuenta
+-validad con tabla áreas de caja chica o cuentas bancarias</t></r></text></comment><comment ref="AL8" authorId="0" shapeId="0" xr:uid="{298369EC-301A-4220-A8E7-52AC6D1CED47}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Número de Operación de caja u operación bancaria</t></r></text></comment><comment ref="AM8" authorId="0" shapeId="0" xr:uid="{B0FE5188-DF47-4231-B6EF-05DB1E3DA5F8}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>RCHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Importe total a Pagar</t></r></text></comment></commentList></comments>

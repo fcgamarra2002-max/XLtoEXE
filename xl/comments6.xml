@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>CHAVEZ</author></authors><commentList><comment ref="B7" authorId="0" shapeId="0" xr:uid="{F7B3C472-56EE-4542-9EF6-57C2A54E5EA6}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-10 caracteres</t></r></text></comment><comment ref="C7" authorId="0" shapeId="0" xr:uid="{F372C33C-B5AA-4D0F-AA00-4B6BB6802DC5}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-03 caracteres
+- Validar tabla libros
+(Mantenimineto - tablas)</t></r></text></comment><comment ref="D7" authorId="0" shapeId="0" xr:uid="{2D87D2EE-3811-4456-939F-3C727E3A35BD}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Fecha (dd/mm/yyyy)
+-Obligatorio
+-10 caracteres
+
+</t></r></text></comment><comment ref="E7" authorId="0" shapeId="0" xr:uid="{C47B9F23-62E7-44F2-AA57-29CDC9CEB2E9}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Fecha (dd/mm/yyy)
+-Opcional
+-10 caracteres
+</t></r></text></comment><comment ref="F7" authorId="0" shapeId="0" xr:uid="{9DF81ADD-2E83-411D-8069-B1007735D82F}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-60 caracteres
+</t></r></text></comment><comment ref="G7" authorId="0" shapeId="0" xr:uid="{BB777C10-9EFC-451E-B39F-0E1504B7BE64}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-01 caracteres
+-Validar estructura P.L.E</t></r></text></comment><comment ref="H7" authorId="0" shapeId="0" xr:uid="{A7F0A42E-10F0-4400-B4F0-BB347EAA6740}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-01 Caracteres
+-Correlativo de Item</t></r></text></comment><comment ref="I7" authorId="0" shapeId="0" xr:uid="{97D6F574-3C39-4678-934A-186AE667AED5}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Texto
+-Obligatorio
+-06 Caracteres
+-Validar plan de cuntas
+(Mantenimiento  - Plan cuentas)</t></r></text></comment><comment ref="J7" authorId="0" shapeId="0" xr:uid="{5D1B6063-70DD-4BB9-A1CF-22D0DC0A127E}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-03 Caracteres
+-Validar tabla monedas
+(Mantenimiento - Tablas)</t></r></text></comment><comment ref="K7" authorId="0" shapeId="0" xr:uid="{CD711B4D-1604-4223-BAD1-7338497CA247}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico (0.000)
+-Obligatorio
+-05 Caracteres
+-Si moneda es PEN, T.c.=1.000
+-Si es &lt;&gt; PEN validar tipo de cambio fecha
+</t></r></text></comment><comment ref="L7" authorId="0" shapeId="0" xr:uid="{7DA94A38-373E-41E5-A267-C85EF561C177}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-hasta 2 decimales
+-De no corresponder Importe considerar "0"</t></r></text></comment><comment ref="M7" authorId="0" shapeId="0" xr:uid="{EE372417-6657-4C55-8828-9A07D7D179B2}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-Obligatorio
+-hasta 2 decimales
+-De no corresponder Importe considerar "0"</t></r></text></comment><comment ref="N7" authorId="0" shapeId="0" xr:uid="{ABCFC5B4-E3B5-4671-B714-543C2AA122A9}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-03 Caracteres
+-Validar tabla centro de costos</t></r></text></comment><comment ref="T7" authorId="0" shapeId="0" xr:uid="{9A82FD27-8185-431A-9C41-57DA76A0A51D}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-Obligatorio
+-60 Caracteres
+-Si no tiene glosa-Item considerar Glosa general</t></r></text></comment><comment ref="O8" authorId="0" shapeId="0" xr:uid="{32C005F6-5BA7-4BCC-8FA2-6E82B449AA93}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Formato texto
+-Opcional
+-11 Caracteres</t></r></text></comment><comment ref="P8" authorId="0" shapeId="0" xr:uid="{AD541207-85DA-4754-92F1-7941534874EA}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Fecha (dd/mm/yyyy)
+-Opcional
+-10 Caracteres</t></r></text></comment><comment ref="Q8" authorId="0" shapeId="0" xr:uid="{F66CD04F-6B71-4F43-A3BA-83AA1887C72E}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Formato texto
+-Opcional
+-02 Caracteres
+-Validar tabla tipo de documentos</t></r></text></comment><comment ref="R8" authorId="0" shapeId="0" xr:uid="{71A7A7D3-5201-472B-A8FD-5059821986BF}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Formato texto
+-Opcional
+-04 Caracteres</t></r></text></comment><comment ref="S8" authorId="0" shapeId="0" xr:uid="{03569805-3028-4055-9AFE-224E3DC03090}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Formato texto
+-Opcional
+-09 Caracteres</t></r></text></comment></commentList></comments>

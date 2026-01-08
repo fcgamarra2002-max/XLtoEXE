@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>CHAVEZ</author></authors><commentList><comment ref="B7" authorId="0" shapeId="0" xr:uid="{AA9252A6-B619-4716-B081-D97E31DE1A72}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Númerico
+-11 caracteres 
+-Obligatorio</t></r></text></comment><comment ref="C7" authorId="0" shapeId="0" xr:uid="{E3158AE7-F7FE-4744-9846-4EB8B063CA13}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-60 caracteres
+-Obligatorio
+</t></r></text></comment><comment ref="D7" authorId="0" shapeId="0" xr:uid="{3AD87850-6614-4838-AC26-E2F876319156}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-60 caracteres
+-Obligatorio</t></r></text></comment><comment ref="E7" authorId="0" shapeId="0" xr:uid="{3024BCEA-97D7-4A15-A585-E49DFBD8BE99}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Formato texto
+-02 caracteres
+-Obligatorio
+-Validar tabla tipo de persona Sunat 
+(configuración - Tblas)</t></r></text></comment><comment ref="F7" authorId="0" shapeId="0" xr:uid="{AEF43BF1-DE3E-4EC9-A832-F07511ACFF10}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Númerico
+-01 caracteres
+-Oligatorio
+-Validar tabla tipo documento de identidad
+(configuración - tablas)</t></r></text></comment><comment ref="G7" authorId="0" shapeId="0" xr:uid="{66F4D14F-C928-4FFB-8DE5-C6040BAACCFF}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-60 caracteres
+-Opcional
+</t></r></text></comment><comment ref="H7" authorId="0" shapeId="0" xr:uid="{EAB9AD0F-4396-46DF-9491-23844177CA77}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-60 caracteres
+-Opcional</t></r></text></comment><comment ref="I7" authorId="0" shapeId="0" xr:uid="{BD4675E6-B015-414A-8260-FBDD969685B1}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Númerico
+-Opcional</t></r></text></comment><comment ref="J7" authorId="0" shapeId="0" xr:uid="{339BD9E5-B847-42B9-8F99-C155CB3F88E3}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Númerico
+-Opcional</t></r></text></comment><comment ref="K7" authorId="0" shapeId="0" xr:uid="{AA6330AA-EDAA-4760-A940-BBFA40DA8F2F}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-60 caracteres
+-Opcional</t></r></text></comment><comment ref="L7" authorId="0" shapeId="0" xr:uid="{13427C08-81BC-4EA4-8238-4E293F6C07D1}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">CHAVEZ:
+</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>-Alfanumerico</t></r><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>60 caracteres
+-Opcional</t></r></text></comment><comment ref="M7" authorId="0" shapeId="0" xr:uid="{FE90C3A0-844C-46D0-959A-09031F16FD9D}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">CHAVEZ:
+</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>-Alfanumerico
+-60 caracteres
+-Opcional</t></r></text></comment><comment ref="N7" authorId="0" shapeId="0" xr:uid="{670C5E0D-24B7-4565-9D20-E9EA0A1BDBCC}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Alfanumerico
+-200 caracteres
+-Opcional</t></r></text></comment><comment ref="O7" authorId="0" shapeId="0" xr:uid="{39F1CF95-8656-4CF0-ACD1-BA9737EF2F98}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numercio
+-01 caracteres
+-1= afecto a detracción
+-0= no afecto
+-De no estar afecto considerar 0, no dejar campo vacio.
+</t></r></text></comment><comment ref="P7" authorId="0" shapeId="0" xr:uid="{1717BBCF-A890-4636-98D5-F2C52D66BC64}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numercio
+- Si el campo afecto a det. Es 1 considerar número de cuenta de lo contrario dejar campo vacio 
+</t></r></text></comment><comment ref="Q7" authorId="0" shapeId="0" xr:uid="{A901A6F0-FEDF-4EB3-81E8-32F7DCFE40DD}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Dejar campo vacio</t></r></text></comment><comment ref="R7" authorId="0" shapeId="0" xr:uid="{1C115E61-DF6B-4985-8924-715C6AF0DCD8}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Dejar campo vacio</t></r></text></comment><comment ref="S7" authorId="0" shapeId="0" xr:uid="{ADAAC730-DA73-4F4B-B2AA-8ACB75D20953}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Dejar campo vacio</t></r></text></comment><comment ref="T7" authorId="0" shapeId="0" xr:uid="{6671CA80-3DDD-4066-945F-EB214343703B}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+Dejar campo vacio</t></r></text></comment><comment ref="U7" authorId="0" shapeId="0" xr:uid="{F0A8A14F-A3EB-48E1-ADDF-21738993DF8A}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>CHAVEZ:</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+-Numerico
+-01 caracteres
+-Obligatorio
+-1=Activo
+-0=Inactivo</t></r></text></comment></commentList></comments>
