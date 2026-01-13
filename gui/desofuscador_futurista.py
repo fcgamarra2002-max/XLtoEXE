@@ -49,9 +49,8 @@ class FuturisticColors:
     WARNING = "#ffaa00"
     ERROR = "#ff4444"
 
-class FuturisticButton(ft.UserControl):
+class FuturisticButton:
     def __init__(self, text, icon, on_click, enabled=True, color_scheme="cyan"):
-        super().__init__()
         self.text = text
         self.icon = icon
         self.on_click = on_click
@@ -88,7 +87,7 @@ class FuturisticButton(ft.UserControl):
         self._tooltip = value
         if getattr(self, "_button_control", None) is not None:
             self._button_control.tooltip = value
-            self._button_control.update()
+            # self._button_control.update()  # Removed to avoid error before adding to page
 
     def get_colors(self):
         schemes = {
@@ -104,19 +103,19 @@ class FuturisticButton(ft.UserControl):
     def _build_button_style(self, primary_color, dark_color):
         return ft.ButtonStyle(
             bgcolor={
-                ft.MaterialState.DEFAULT: dark_color if self._enabled else FuturisticColors.SURFACE,
-                ft.MaterialState.HOVERED: primary_color if self._enabled else FuturisticColors.SURFACE,
+                ft.ControlState.DEFAULT: dark_color if self._enabled else FuturisticColors.SURFACE,
+                ft.ControlState.HOVERED: primary_color if self._enabled else FuturisticColors.SURFACE,
             },
             color={
-                ft.MaterialState.DEFAULT: FuturisticColors.TEXT_PRIMARY,
-                ft.MaterialState.HOVERED: FuturisticColors.BACKGROUND,
+                ft.ControlState.DEFAULT: FuturisticColors.TEXT_PRIMARY,
+                ft.ControlState.HOVERED: FuturisticColors.BACKGROUND,
             },
             shape=ft.RoundedRectangleBorder(radius=12),
             padding=ft.padding.symmetric(horizontal=20, vertical=15),
             elevation={"default": 8, "pressed": 2, "hovered": 12},
             animation_duration=300,
             overlay_color={
-                ft.MaterialState.HOVERED: ft.colors.with_opacity(0.1, primary_color),
+                ft.ControlState.HOVERED: ft.colors.with_opacity(0.1, primary_color),
             },
         )
 
@@ -215,14 +214,13 @@ class FuturisticButton(ft.UserControl):
             animate=ft.Animation(300, ft.AnimationCurve.EASE_OUT),
         )
 
-    def build(self):
+    def get_control(self):
         if self._container is None:
             self._build()
         return self._container
 
-class FuturisticProgressBar(ft.UserControl):
+class FuturisticProgressBar:
     def __init__(self, width=800, color=FuturisticColors.NEON_CYAN, show_percentage=True):
-        super().__init__()
         self.width = width
         self.value = 0.0
         self.visible = False
@@ -234,7 +232,7 @@ class FuturisticProgressBar(ft.UserControl):
         self.progress_text = None
         self._container = None
 
-    def build(self):
+    def get_control(self):
         self.progress_text = ft.Text(
             f"{int(self.value * 100)}% {self.label}".strip(),
             color=FuturisticColors.TEXT_ACCENT,
@@ -298,9 +296,8 @@ class FuturisticProgressBar(ft.UserControl):
             self._container.visible = self.visible
             self._container.update()
 
-class FuturisticInfoPanel(ft.UserControl):
+class FuturisticInfoPanel:
     def __init__(self, title="ARCHIVO SELECCIONADO"):
-        super().__init__()
         self.title = title
         self.content_text = ft.Text(
             "Ningún archivo seleccionado",
@@ -310,7 +307,7 @@ class FuturisticInfoPanel(ft.UserControl):
             text_align=ft.TextAlign.CENTER
         )
         
-    def build(self):
+    def get_control(self):
         return ft.Container(
             content=ft.Column([
                 ft.Text(
@@ -341,9 +338,8 @@ class FuturisticInfoPanel(ft.UserControl):
         self.content_text.value = text
         self.content_text.update()
 
-class FuturisticLogBox(ft.UserControl):
+class FuturisticLogBox:
     def __init__(self, width=800, height=250, clear_callback=None):
-        super().__init__()
         self.width = width
         self.height = height
         self.log_content = "⏳ Procesando...\n"
@@ -351,7 +347,7 @@ class FuturisticLogBox(ft.UserControl):
         self._log_view = None
         self._is_clearing = False
         
-    def build(self):
+    def get_control(self):
         self._log_view = ft.ListView(
             expand=True,
             auto_scroll=True,
@@ -374,7 +370,7 @@ class FuturisticLogBox(ft.UserControl):
                         icon_size=20,
                         on_click=self.clear_log,
                         style=ft.ButtonStyle(
-                            bgcolor={ft.MaterialState.HOVERED: ft.colors.with_opacity(0.1, FuturisticColors.NEON_PINK)},
+                            bgcolor={ft.ControlState.HOVERED: ft.colors.with_opacity(0.1, FuturisticColors.NEON_PINK)},
                             shape=ft.CircleBorder()
                         )
                     )
@@ -411,7 +407,6 @@ class FuturisticLogBox(ft.UserControl):
         if len(lines) > 50:
             self.log_content = '\n'.join(lines[-50:])
         self._refresh_log_view()
-        self.update()
     
     def clear_log(self, e=None):
         if self._is_clearing:
@@ -430,7 +425,6 @@ class FuturisticLogBox(ft.UserControl):
     def reset_log(self, initial_message="⏳ Procesando..."):
         self.log_content = f"{initial_message}\n"
         self._populate_log_view()
-        self.update()
 
     def _refresh_log_view(self):
         if self._log_view is None:
@@ -510,8 +504,8 @@ class AppGUI:
         page.on_drop = self.handle_drop
         
         page.title = "🚀 Desofuscador XLtoEXE"
-        page.window_width = 1100
-        page.window_height = 800
+        page.window.width = 1100
+        page.window.height = 800
         page.bgcolor = FuturisticColors.BACKGROUND
         page.theme = ft.Theme(
             color_scheme=ft.ColorScheme(
@@ -565,13 +559,13 @@ class AppGUI:
         # Crear fila de botones
         button_row = ft.Row(
             [
-                self.buttons["select"],
-                self.buttons["analyze"],
-                self.buttons["clean"],
-                self.buttons["deobfuscate"],
-                self.buttons["reinsercion"],
-                self.buttons["save"],
-                self.buttons["help"]
+                self.buttons["select"].get_control(),
+                self.buttons["analyze"].get_control(),
+                self.buttons["clean"].get_control(),
+                self.buttons["deobfuscate"].get_control(),
+                self.buttons["reinsercion"].get_control(),
+                self.buttons["save"].get_control(),
+                self.buttons["help"].get_control()
             ],
             alignment=ft.MainAxisAlignment.CENTER,
             spacing=12,
@@ -579,7 +573,7 @@ class AppGUI:
         
         # Crear contenedor para la barra de progreso
         progress_container = ft.Container(
-            content=self.action_progress,
+            content=self.action_progress.get_control(),
             margin=ft.margin.only(top=20, bottom=10),
             padding=ft.padding.symmetric(horizontal=20),
             width=800
@@ -648,19 +642,19 @@ class AppGUI:
                     [
                         ft.Row(
                             [
-                                self.buttons["select"],
-                                self.buttons["analyze"],
-                                self.buttons["clean"],
-                                self.buttons["deobfuscate"],
-                                self.buttons["reinsercion"],
-                                self.buttons["save"],
-                                self.buttons["help"]
+                                self.buttons["select"].get_control(),
+                                self.buttons["analyze"].get_control(),
+                                self.buttons["clean"].get_control(),
+                                self.buttons["deobfuscate"].get_control(),
+                                self.buttons["reinsercion"].get_control(),
+                                self.buttons["save"].get_control(),
+                                self.buttons["help"].get_control()
                             ],
                             alignment=ft.MainAxisAlignment.CENTER,
                             spacing=12,
                         ),
                         # Barra de progreso para acciones
-                        self.action_progress
+                        self.action_progress.get_control()
                     ],
                     spacing=0,
                     horizontal_alignment=ft.CrossAxisAlignment.CENTER,
@@ -670,7 +664,7 @@ class AppGUI:
                 
                 ft.Row(
                     [
-                        self.info_panel
+                        self.info_panel.get_control()
                     ],
                     alignment=ft.MainAxisAlignment.CENTER,
                     vertical_alignment=ft.CrossAxisAlignment.START,
@@ -681,7 +675,7 @@ class AppGUI:
                 # Barra de progreso
                 ft.Container(
                     content=ft.Column([
-                        self.progress_bar,
+                        self.progress_bar.get_control(),
                         ft.Container(height=10)
                     ]),
                     width=800,
@@ -692,7 +686,7 @@ class AppGUI:
                 
                 # Área de logs
                 ft.Container(
-                    content=self.log_box,
+                    content=self.log_box.get_control(),
                     width=1000,
                     alignment=ft.alignment.center
                 )
@@ -778,7 +772,7 @@ class AppGUI:
                 
                 # Mostrar información de carga
                 self.info_panel.set_content(f"⌛ Procesando: {nombre}")
-                self.info_panel.update()
+                # self.info_panel.update()  # Removed - no longer has update() method
                 self.action_progress.set_progress(0.3, True, f"Validando archivo: {nombre[:20]}...")
                 self.page.update()
                 
@@ -824,9 +818,7 @@ class AppGUI:
                 self.action_progress.set_progress(0, False, f"Error: {str(ex)[:30]}...")
                 self.page.update()
             finally:
-                # Asegurar que la barra de progreso se actualice al finalizar
-                if hasattr(self, 'action_progress'):
-                    self.action_progress.update()
+                pass
 
     def clean_temp_dir(self):
         if self.working_dir and os.path.exists(self.working_dir):
@@ -863,7 +855,7 @@ class AppGUI:
             self.selected_file = file_path
             nombre = os.path.basename(file_path)
             self.info_panel.set_content(f"📁 {os.path.basename(self.selected_file)}")
-            self.info_panel.update()
+            # self.info_panel.update()  # Removed - no longer has update() method
             self.show_snackbar(page, f"Archivo cargado: {nombre}")
             self.update_buttons()
         else:
